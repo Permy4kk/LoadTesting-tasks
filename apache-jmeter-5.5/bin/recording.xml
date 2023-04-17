@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.boredapi.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="840" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.boredapi.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1114" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.boredapi.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="840" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.boredapi.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="538" it="0" lt="538" ct="388" ts="1681726304666" s="true" lb="Open-7" rc="200" rm="OK" tn="" dt="text" de="UTF-8" by="1022" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Cowboy
+Connection: close
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0
+Last-Modified: Mon, 22 Jun 2020 01:44:13 GMT
+Etag: W/&quot;250-172d9b27dc8&quot;
+Content-Type: text/html; charset=UTF-8
+Content-Length: 592
+Date: Mon, 17 Apr 2023 10:11:44 GMT
+Via: 1.1 vegur
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://www.boredapi.com/
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: www.boredapi.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=utf-8&gt;&lt;meta name=viewport content=&quot;width=device-width,initial-scale=1&quot;&gt;&lt;link rel=stylesheet href=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css integrity=sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M crossorigin=anonymous&gt;&lt;script src=https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&gt;&lt;/script&gt;&lt;script src=https://code.jquery.com/ui/1.12.1/jquery-ui.js&gt;&lt;/script&gt;&lt;title&gt;Bored API&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div id=app&gt;&lt;/div&gt;&lt;script src=js/app.6e3cd8750bda7a41d57e.js&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.boredapi.com/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="maxcdn.bootstrapcdn.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="840" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT maxcdn.bootstrapcdn.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="code.jquery.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT code.jquery.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="1307" it="0" lt="1307" ct="1146" ts="1681726310841" s="true" lb="Open-9" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="481" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Cowboy
+Connection: close
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Content-Type: application/json; charset=utf-8
+Content-Length: 131
+Etag: W/&quot;83-ng6N/feGrrhho8XL7x2q1YotuSA&quot;
+Date: Mon, 17 Apr 2023 10:11:51 GMT
+Via: 1.1 vegur
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: cors
+Referer: https://www.boredapi.com/
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Host: www.boredapi.com
+X-Requested-With: XMLHttpRequest
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Accept: application/json, text/plain, */*
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;activity&quot;:&quot;Go swimming with a friend&quot;,&quot;type&quot;:&quot;social&quot;,&quot;participants&quot;:2,&quot;price&quot;:0.1,&quot;link&quot;:&quot;&quot;,&quot;key&quot;:&quot;1505028&quot;,&quot;accessibility&quot;:0.1}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.boredapi.com/api/activity/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="980" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Software caused connection abort: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1742" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="450" it="0" lt="450" ct="291" ts="1681726321048" s="true" lb="Activity-13" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="509" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: Cowboy
+Connection: close
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Content-Type: application/json; charset=utf-8
+Content-Length: 159
+Etag: W/&quot;9f-TyWvvkkAtAdfdhfNcQsH5WY3Da8&quot;
+Date: Mon, 17 Apr 2023 10:12:01 GMT
+Via: 1.1 vegur
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: cors
+Referer: https://www.boredapi.com/
+If-None-Match: W/&quot;83-ng6N/feGrrhho8XL7x2q1YotuSA&quot;
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: application/json, text/plain, */*
+Host: www.boredapi.com
+X-Requested-With: XMLHttpRequest
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;activity&quot;:&quot;Learn and play a new card game&quot;,&quot;type&quot;:&quot;recreational&quot;,&quot;participants&quot;:1,&quot;price&quot;:0,&quot;link&quot;:&quot;https://www.pagat.com&quot;,&quot;key&quot;:&quot;9660022&quot;,&quot;accessibility&quot;:0}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.boredapi.com/api/activity/</java.net.URL>
+</httpSample>
+
+</testResults>
