@@ -175,7 +175,7 @@
               <stringProp name="RegexExtractor.regex">.*?gender&quot;\s?:\s?&quot;([\w\s]+)</stringProp>
               <stringProp name="RegexExtractor.template">$1$</stringProp>
               <stringProp name="RegexExtractor.default">NOT FOUND</stringProp>
-              <stringProp name="RegexExtractor.match_number">3</stringProp>
+              <stringProp name="RegexExtractor.match_number">2</stringProp>
             </RegexExtractor>
             <hashTree/>
             <JSR223PostProcessor guiclass="TestBeanGUI" testclass="JSR223PostProcessor" testname="JSR223 PostProcessor" enabled="true">
