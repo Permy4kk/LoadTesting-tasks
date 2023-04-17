@@ -158,4 +158,634 @@ Sec-Fetch-Dest: empty
   <java.net.URL>https://www.boredapi.com/api/activity/</java.net.URL>
 </httpSample>
 
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Software caused connection abort: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1912" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Software caused connection abort: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1912" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1076" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: unknown_ca&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1114" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="aus5.mozilla.org:443" rc="" rm="Software caused connection abort: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1742" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT aus5.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="firefox.settings.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="firefox.settings.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="firefox.settings.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="safebrowsing.googleapis.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT safebrowsing.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="contile.services.mozilla.com:443" rc="" rm="Connection reset by peer: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1904" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT contile.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="shavar.services.mozilla.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1076" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT shavar.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="catfact.ninja:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT catfact.ninja:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="catfact.ninja:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="840" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT catfact.ninja:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="catfact.ninja:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT catfact.ninja:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="402" it="0" lt="401" ct="265" ts="1681745851883" s="true" lb="Open-28" rc="200" rm="OK" tn="" dt="text" de="UTF-8" by="1300" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 17 Apr 2023 15:37:31 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://catfact.ninja/
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: catfact.ninja
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;title&gt;Cat Facts API&lt;/title&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://catfact.ninja/docs/asset/swagger-ui.css?v=0cc4180f1befeea306a82ff969b7fe7c&quot;&gt;
+    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;https://catfact.ninja/docs/asset/favicon-32x32.png?v=40d4f2c38d1cd854ad463f16373cbcb6&quot; sizes=&quot;32x32&quot;/&gt;
+    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;https://catfact.ninja/docs/asset/favicon-16x16.png?v=f0ae831196d55d8f4115b6c5e8ec5384&quot; sizes=&quot;16x16&quot;/&gt;
+    &lt;style&gt;
+        html
+        {
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+        *,
+        *:before,
+        *:after
+        {
+            box-sizing: inherit;
+        }
+
+        body {
+            margin:0;
+            background: #fafafa;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+&lt;div id=&quot;swagger-ui&quot;&gt;&lt;/div&gt;
+
+&lt;script src=&quot;https://catfact.ninja/docs/asset/swagger-ui-bundle.js?v=1af3ec62ad38bd8b4c1f99a31e07e58c&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://catfact.ninja/docs/asset/swagger-ui-standalone-preset.js?v=0e73555b7119ba9593b450964ce857a0&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+    window.onload = function() {
+        // Build a system
+        const ui = SwaggerUIBundle({
+            dom_id: &apos;#swagger-ui&apos;,
+            url: &quot;https://catfact.ninja/docs/api-docs.json&quot;,
+            operationsSorter: null,
+            configUrl: null,
+            validatorUrl: null,
+            oauth2RedirectUrl: &quot;https://catfact.ninja/api/oauth2-callback&quot;,
+
+            requestInterceptor: function(request) {
+                request.headers[&apos;X-CSRF-TOKEN&apos;] = &apos;WFXa7KnTbQ1TOLyqRv4FN1WsLhQPPm82d51EDWha&apos;;
+                return request;
+            },
+
+            presets: [
+                SwaggerUIBundle.presets.apis,
+                SwaggerUIStandalonePreset
+            ],
+
+            plugins: [
+                SwaggerUIBundle.plugins.DownloadUrl
+            ],
+
+            layout: &quot;StandaloneLayout&quot;,
+            docExpansion : &quot;none&quot;,
+            deepLinking: true,
+            filter: true,
+            persistAuthorization: &quot;false&quot;,
+
+        })
+
+        window.ui = ui
+
+            }
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://catfact.ninja/</java.net.URL>
+</httpSample>
+<httpSample t="374" it="0" lt="373" ct="249" ts="1681745852494" s="true" lb="Open-29" rc="200" rm="OK" tn="" dt="text" de="" by="1153" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 17 Apr 2023 15:37:32 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: cors
+Referer: https://catfact.ninja/
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Host: catfact.ninja
+X-CSRF-TOKEN: WFXa7KnTbQ1TOLyqRv4FN1WsLhQPPm82d51EDWha
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Accept: application/json,*/*
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">{
+    &quot;openapi&quot;: &quot;3.0.0&quot;,
+    &quot;info&quot;: {
+        &quot;title&quot;: &quot;Cat Facts API&quot;,
+        &quot;version&quot;: &quot;1.0&quot;
+    },
+    &quot;paths&quot;: {
+        &quot;/breeds&quot;: {
+            &quot;get&quot;: {
+                &quot;tags&quot;: [
+                    &quot;Breeds&quot;
+                ],
+                &quot;summary&quot;: &quot;Get a list of breeds&quot;,
+                &quot;description&quot;: &quot;Returns a a list of breeds&quot;,
+                &quot;operationId&quot;: &quot;getBreeds&quot;,
+                &quot;parameters&quot;: [
+                    {
+                        &quot;name&quot;: &quot;limit&quot;,
+                        &quot;in&quot;: &quot;query&quot;,
+                        &quot;description&quot;: &quot;limit the amount of results returned&quot;,
+                        &quot;required&quot;: false,
+                        &quot;schema&quot;: {
+                            &quot;type&quot;: &quot;integer&quot;,
+                            &quot;format&quot;: &quot;int64&quot;
+                        }
+                    }
+                ],
+                &quot;responses&quot;: {
+                    &quot;200&quot;: {
+                        &quot;description&quot;: &quot;successful operation&quot;,
+                        &quot;content&quot;: {
+                            &quot;application/json&quot;: {
+                                &quot;schema&quot;: {
+                                    &quot;type&quot;: &quot;array&quot;,
+                                    &quot;items&quot;: {
+                                        &quot;$ref&quot;: &quot;#/components/schemas/Breed&quot;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        &quot;/fact&quot;: {
+            &quot;get&quot;: {
+                &quot;tags&quot;: [
+                    &quot;Facts&quot;
+                ],
+                &quot;summary&quot;: &quot;Get Random Fact&quot;,
+                &quot;description&quot;: &quot;Returns a random fact&quot;,
+                &quot;operationId&quot;: &quot;getRandomFact&quot;,
+                &quot;parameters&quot;: [
+                    {
+                        &quot;name&quot;: &quot;max_length&quot;,
+                        &quot;in&quot;: &quot;query&quot;,
+                        &quot;description&quot;: &quot;maximum length of returned fact&quot;,
+                        &quot;required&quot;: false,
+                        &quot;schema&quot;: {
+                            &quot;type&quot;: &quot;integer&quot;,
+                            &quot;format&quot;: &quot;int64&quot;
+                        }
+                    }
+                ],
+                &quot;responses&quot;: {
+                    &quot;200&quot;: {
+                        &quot;description&quot;: &quot;successful operation&quot;,
+                        &quot;content&quot;: {
+                            &quot;application/json&quot;: {
+                                &quot;schema&quot;: {
+                                    &quot;$ref&quot;: &quot;#/components/schemas/CatFact&quot;
+                                }
+                            }
+                        }
+                    },
+                    &quot;404&quot;: {
+                        &quot;description&quot;: &quot;Fact not found&quot;
+                    }
+                }
+            }
+        },
+        &quot;/facts&quot;: {
+            &quot;get&quot;: {
+                &quot;tags&quot;: [
+                    &quot;Facts&quot;
+                ],
+                &quot;summary&quot;: &quot;Get a list of facts&quot;,
+                &quot;description&quot;: &quot;Returns a a list of facts&quot;,
+                &quot;operationId&quot;: &quot;getFacts&quot;,
+                &quot;parameters&quot;: [
+                    {
+                        &quot;name&quot;: &quot;max_length&quot;,
+                        &quot;in&quot;: &quot;query&quot;,
+                        &quot;description&quot;: &quot;maximum length of returned fact&quot;,
+                        &quot;required&quot;: false,
+                        &quot;schema&quot;: {
+                            &quot;type&quot;: &quot;integer&quot;,
+                            &quot;format&quot;: &quot;int64&quot;
+                        }
+                    },
+                    {
+                        &quot;name&quot;: &quot;limit&quot;,
+                        &quot;in&quot;: &quot;query&quot;,
+                        &quot;description&quot;: &quot;limit the amount of results returned&quot;,
+                        &quot;required&quot;: false,
+                        &quot;schema&quot;: {
+                            &quot;type&quot;: &quot;integer&quot;,
+                            &quot;format&quot;: &quot;int64&quot;
+                        }
+                    }
+                ],
+                &quot;responses&quot;: {
+                    &quot;200&quot;: {
+                        &quot;description&quot;: &quot;successful operation&quot;,
+                        &quot;content&quot;: {
+                            &quot;application/json&quot;: {
+                                &quot;schema&quot;: {
+                                    &quot;type&quot;: &quot;array&quot;,
+                                    &quot;items&quot;: {
+                                        &quot;$ref&quot;: &quot;#/components/schemas/CatFact&quot;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    &quot;components&quot;: {
+        &quot;schemas&quot;: {
+            &quot;Breed&quot;: {
+                &quot;title&quot;: &quot;Breed model&quot;,
+                &quot;description&quot;: &quot;Breed&quot;,
+                &quot;properties&quot;: {
+                    &quot;breed&quot;: {
+                        &quot;title&quot;: &quot;Breed&quot;,
+                        &quot;description&quot;: &quot;Breed&quot;,
+                        &quot;type&quot;: &quot;string&quot;,
+                        &quot;format&quot;: &quot;string&quot;
+                    },
+                    &quot;country&quot;: {
+                        &quot;title&quot;: &quot;Country&quot;,
+                        &quot;description&quot;: &quot;Country&quot;,
+                        &quot;type&quot;: &quot;string&quot;,
+                        &quot;format&quot;: &quot;string&quot;
+                    },
+                    &quot;origin&quot;: {
+                        &quot;title&quot;: &quot;Origin&quot;,
+                        &quot;description&quot;: &quot;Origin&quot;,
+                        &quot;type&quot;: &quot;string&quot;,
+                        &quot;format&quot;: &quot;string&quot;
+                    },
+                    &quot;coat&quot;: {
+                        &quot;title&quot;: &quot;Coat&quot;,
+                        &quot;description&quot;: &quot;Coat&quot;,
+                        &quot;type&quot;: &quot;string&quot;,
+                        &quot;format&quot;: &quot;string&quot;
+                    },
+                    &quot;pattern&quot;: {
+                        &quot;title&quot;: &quot;Pattern&quot;,
+                        &quot;description&quot;: &quot;Pattern&quot;,
+                        &quot;type&quot;: &quot;string&quot;,
+                        &quot;format&quot;: &quot;string&quot;
+                    }
+                },
+                &quot;type&quot;: &quot;object&quot;
+            },
+            &quot;CatFact&quot;: {
+                &quot;title&quot;: &quot;CatFact model&quot;,
+                &quot;description&quot;: &quot;CatFact&quot;,
+                &quot;properties&quot;: {
+                    &quot;fact&quot;: {
+                        &quot;title&quot;: &quot;Fact&quot;,
+                        &quot;description&quot;: &quot;Fact&quot;,
+                        &quot;type&quot;: &quot;string&quot;,
+                        &quot;format&quot;: &quot;string&quot;
+                    },
+                    &quot;length&quot;: {
+                        &quot;title&quot;: &quot;Length&quot;,
+                        &quot;description&quot;: &quot;Length&quot;,
+                        &quot;type&quot;: &quot;integer&quot;,
+                        &quot;format&quot;: &quot;int32&quot;
+                    }
+                },
+                &quot;type&quot;: &quot;object&quot;
+            }
+        }
+    }
+}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://catfact.ninja/docs/api-docs.json</java.net.URL>
+</httpSample>
+<httpSample t="399" it="0" lt="398" ct="253" ts="1681745868454" s="true" lb="Breeds-30" rc="200" rm="OK" tn="" dt="text" de="" by="3300" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 17 Apr 2023 15:37:48 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+X-Ratelimit-Limit: 100
+X-Ratelimit-Remaining: 99
+Access-Control-Allow-Origin: *
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IkR3d01DOVlBeloyRFRwVU5NY3Zxd3c9PSIsInZhbHVlIjoiZDJaSDUwVkp2SFJhY2xZQmJmVWJmbzI3OGdoemkrcGRUVWJjV0dOdjFQQ3dVNDhVVG9teHY0YWlETUxLcTZiTjFxeElaenpsTHY4TWlsa0xTcld0cXdmUlpRVUp6L0NyenRvdENvWFA2QUM5MC9zZmI5OG81dE04K2dWWVdOV0giLCJtYWMiOiI5OTNlNTJiNDIzZDZjMGY5Y2FiYzMzNGJjMTJjNDUwOWYxNWYyMzA1M2I1MTU1ZWNlMjg0MThhNzM4ZTg0NjE2IiwidGFnIjoiIn0%3D; expires=Mon, 17-Apr-2023 17:37:48 GMT; path=/; samesite=lax
+Set-Cookie: catfacts_session=eyJpdiI6InZPMkdaekNvQXQ2ZHdqdExXUGpxa2c9PSIsInZhbHVlIjoiWHU0aTlUT1ZqQmNQdnJETFM4eHJxSldkV1lFalJnY2lRVXA1YXcxMUdWQVd5NnlLZjZXOVdKbGNXOXJHK2ZXamR2WnpUb0V0M29LSUJyakl0aGh0Q2t5UVMwcjRXNFJGdGlzRFlFbGgyR1FFbDY3TlpZY2J5QzN6UHhybDUwa1MiLCJtYWMiOiI3OWMxNGQ3MDg5MGRmMDMwZWVhMTFlMjZjNWNiMjZkZGRlYTM1NTA4OWZlMTQzZWEzMDRhZmVhMWMzOGI4NjhkIiwidGFnIjoiIn0%3D; expires=Mon, 17-Apr-2023 17:37:48 GMT; path=/; httponly; samesite=lax
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: cors
+Referer: https://catfact.ninja/
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Host: catfact.ninja
+X-CSRF-TOKEN: WFXa7KnTbQ1TOLyqRv4FN1WsLhQPPm82d51EDWha
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Accept: application/json
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;current_page&quot;:1,&quot;data&quot;:[{&quot;breed&quot;:&quot;Abyssinian&quot;,&quot;country&quot;:&quot;Ethiopia&quot;,&quot;origin&quot;:&quot;Natural\/Standard&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Ticked&quot;},{&quot;breed&quot;:&quot;Aegean&quot;,&quot;country&quot;:&quot;Greece&quot;,&quot;origin&quot;:&quot;Natural\/Standard&quot;,&quot;coat&quot;:&quot;Semi-long&quot;,&quot;pattern&quot;:&quot;Bi- or tri-colored&quot;},{&quot;breed&quot;:&quot;American Curl&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;American Bobtail&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;American Shorthair&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;All but colorpoint&quot;},{&quot;breed&quot;:&quot;American Wirehair&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Rex&quot;,&quot;pattern&quot;:&quot;All but colorpoint&quot;},{&quot;breed&quot;:&quot;Arabian Mau&quot;,&quot;country&quot;:&quot;Arabian Peninsula&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Australian Mist&quot;,&quot;country&quot;:&quot;Australia&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted and Classic tabby&quot;},{&quot;breed&quot;:&quot;Asian&quot;,&quot;country&quot;:&quot;developed in the United Kingdom (founding stock from Asia)&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Evenly solid&quot;},{&quot;breed&quot;:&quot;Asian Semi-longhair&quot;,&quot;country&quot;:&quot;United Kingdom&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Semi-long&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Balinese&quot;,&quot;country&quot;:&quot;developed in the United States (founding stock from Thailand)&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;Colorpoint&quot;},{&quot;breed&quot;:&quot;Bambino&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Hairless\/Furry down&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Bengal&quot;,&quot;country&quot;:&quot;developed in the United States (founding stock from Asia)&quot;,&quot;origin&quot;:&quot;Hybrid&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted\/Marbled&quot;},{&quot;breed&quot;:&quot;Birman&quot;,&quot;country&quot;:&quot;developed in France (founding stock from Burma)&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Semi Long&quot;,&quot;pattern&quot;:&quot;Colorpoint&quot;},{&quot;breed&quot;:&quot;Bombay&quot;,&quot;country&quot;:&quot;developed in the United States (founding stock from Asia)&quot;,&quot;origin&quot;:&quot;Crossbred&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Brazilian Shorthair&quot;,&quot;country&quot;:&quot;Brazil&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;British Semi-longhair&quot;,&quot;country&quot;:&quot;United Kingdom&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Medium&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;British Shorthair&quot;,&quot;country&quot;:&quot;United Kingdom&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;British Longhair&quot;,&quot;country&quot;:&quot;United Kingdom&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Burmese&quot;,&quot;country&quot;:&quot;Burma and Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Burmilla&quot;,&quot;country&quot;:&quot;United Kingdom&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;California Spangled&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted&quot;},{&quot;breed&quot;:&quot;Chantilly-Tiffany&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Chartreux&quot;,&quot;country&quot;:&quot;France&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Chausie&quot;,&quot;country&quot;:&quot;France&quot;,&quot;origin&quot;:&quot;Hybrid&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Ticked&quot;},{&quot;breed&quot;:&quot;Cheetoh&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Hybrid Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted&quot;},{&quot;breed&quot;:&quot;Colorpoint Shorthair&quot;,&quot;country&quot;:&quot;&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Cornish Rex&quot;,&quot;country&quot;:&quot;United Kingdom (England)&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Rex&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Cymric or Manx Longhair&quot;,&quot;country&quot;:&quot;United Kingdom (Isle of Man)&quot;,&quot;origin&quot;:&quot;Natural\/Mutation&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Cyprus&quot;,&quot;country&quot;:&quot;Cyprus&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;All&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Devon Rex&quot;,&quot;country&quot;:&quot;United Kingdom (England)&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Rex&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Donskoy, or Don Sphynx&quot;,&quot;country&quot;:&quot;Russia&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Hairless&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Dragon Li&quot;,&quot;country&quot;:&quot;China&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Striped tabby&quot;},{&quot;breed&quot;:&quot;Dwarf cat, or Dwelf&quot;,&quot;country&quot;:&quot;&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;Hairless&quot;},{&quot;breed&quot;:&quot;Egyptian Mau&quot;,&quot;country&quot;:&quot;Egypt&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted&quot;},{&quot;breed&quot;:&quot;European Shorthair&quot;,&quot;country&quot;:&quot;Finland and Sweden&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Exotic Shorthair&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Foldex[4]&quot;,&quot;country&quot;:&quot;Canada&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;German Rex&quot;,&quot;country&quot;:&quot;East Germany&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Rex&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Havana Brown&quot;,&quot;country&quot;:&quot;United Kingdom&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Highlander&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Himalayan, or Colorpoint Persian&quot;,&quot;country&quot;:&quot;United States\/United Kingdom&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;Colorpoint&quot;},{&quot;breed&quot;:&quot;Japanese Bobtail&quot;,&quot;country&quot;:&quot;Japan&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;All but colorpoint and ticked&quot;},{&quot;breed&quot;:&quot;Javanese&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Long\/Short&quot;,&quot;pattern&quot;:&quot;Colorpoint&quot;},{&quot;breed&quot;:&quot;Karelian Bobtail&quot;,&quot;country&quot;:&quot;Western Russia&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Khao Manee&quot;,&quot;country&quot;:&quot;Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Korat&quot;,&quot;country&quot;:&quot;Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Korean Bobtail&quot;,&quot;country&quot;:&quot;Korea&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;Colorprint&quot;},{&quot;breed&quot;:&quot;Korn Ja&quot;,&quot;country&quot;:&quot;Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short\/Hairless&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Kurilian Bobtail, or Kuril Islands Bobtail&quot;,&quot;country&quot;:&quot;Eastern Russia,Japan&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;LaPerm&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Rex&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Lykoi&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Natural\/Mutation&quot;,&quot;coat&quot;:&quot;Partly Hairless&quot;,&quot;pattern&quot;:&quot;Ticked&quot;},{&quot;breed&quot;:&quot;Maine Coon&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;All but colorpoint and ticked&quot;},{&quot;breed&quot;:&quot;Manx&quot;,&quot;country&quot;:&quot;United Kingdom (Isle of Man)&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;All but colorpoint&quot;},{&quot;breed&quot;:&quot;Mekong Bobtail&quot;,&quot;country&quot;:&quot;Russia&quot;,&quot;origin&quot;:&quot;Natural\/Mutation&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Colorpoint&quot;},{&quot;breed&quot;:&quot;Minskin&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short\/Hairless&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Munchkin&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Nebelung&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Semi-long&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Napoleon&quot;,&quot;country&quot;:&quot;&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Long\/short&quot;,&quot;pattern&quot;:&quot;Varied&quot;},{&quot;breed&quot;:&quot;Norwegian Forest cat&quot;,&quot;country&quot;:&quot;Norway&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;All but colorpoint&quot;},{&quot;breed&quot;:&quot;Ocicat&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted&quot;},{&quot;breed&quot;:&quot;Ojos Azules&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Oregon Rex&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Rex&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Oriental Bicolor&quot;,&quot;country&quot;:&quot;&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;Bicolor&quot;},{&quot;breed&quot;:&quot;Oriental Shorthair&quot;,&quot;country&quot;:&quot;&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;All but colorpoint&quot;},{&quot;breed&quot;:&quot;Oriental Longhair&quot;,&quot;country&quot;:&quot;&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Semi-long&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;PerFold\u00e6(Experimental Breed - WCF)&quot;,&quot;country&quot;:&quot;Europe&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Persian (Modern Persian Cat)&quot;,&quot;country&quot;:&quot;Iran (Persia)&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Persian (Traditional Persian Cat)&quot;,&quot;country&quot;:&quot;Greater Iran&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Peterbald&quot;,&quot;country&quot;:&quot;Russia&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Hairless&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Pixie-bob&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted&quot;},{&quot;breed&quot;:&quot;Raas&quot;,&quot;country&quot;:&quot;Indonesia&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Ragamuffin&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Ragdoll&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;Colorpoint\/Mitted\/Bicolor&quot;},{&quot;breed&quot;:&quot;Russian Blue&quot;,&quot;country&quot;:&quot;Russia&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Russian White, Black and Tabby&quot;,&quot;country&quot;:&quot;Australia&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Sam Sawet&quot;,&quot;country&quot;:&quot;Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Savannah&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Hybrid&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted&quot;},{&quot;breed&quot;:&quot;Scottish Fold&quot;,&quot;country&quot;:&quot;United Kingdom (Scotland)&quot;,&quot;origin&quot;:&quot;Natural\/Mutation&quot;,&quot;coat&quot;:&quot;Short\/Long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Selkirk Rex&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Mutation\/Cross&quot;,&quot;coat&quot;:&quot;Rex (Short\/Long)&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Serengeti&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Hybrid Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Spotted&quot;},{&quot;breed&quot;:&quot;Serrade petit&quot;,&quot;country&quot;:&quot;France&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;Siamese&quot;,&quot;country&quot;:&quot;Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Colorpoint&quot;},{&quot;breed&quot;:&quot;Siberian&quot;,&quot;country&quot;:&quot;Russia&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Semi-long&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Singapura&quot;,&quot;country&quot;:&quot;Singapore&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Ticked&quot;},{&quot;breed&quot;:&quot;Snowshoe&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Colorpoint&quot;},{&quot;breed&quot;:&quot;Sokoke&quot;,&quot;country&quot;:&quot;Kenya&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Classic tabby with ticking&quot;},{&quot;breed&quot;:&quot;Somali&quot;,&quot;country&quot;:&quot;Somalia&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;Ticked&quot;},{&quot;breed&quot;:&quot;Sphynx&quot;,&quot;country&quot;:&quot;Canada&quot;,&quot;origin&quot;:&quot;Mutation&quot;,&quot;coat&quot;:&quot;Hairless&quot;,&quot;pattern&quot;:&quot;All&quot;},{&quot;breed&quot;:&quot;Suphalak&quot;,&quot;country&quot;:&quot;Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Thai&quot;,&quot;country&quot;:&quot;Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Colorpoint&quot;},{&quot;breed&quot;:&quot;Thai Lilac&quot;,&quot;country&quot;:&quot;Thailand&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Solid&quot;},{&quot;breed&quot;:&quot;Tonkinese&quot;,&quot;country&quot;:&quot;Canada&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Colorpoint\/Mink\/Solid&quot;},{&quot;breed&quot;:&quot;Toyger&quot;,&quot;country&quot;:&quot;United States&quot;,&quot;origin&quot;:&quot;Crossbreed&quot;,&quot;coat&quot;:&quot;Short&quot;,&quot;pattern&quot;:&quot;Mackerel&quot;},{&quot;breed&quot;:&quot;Turkish Angora&quot;,&quot;country&quot;:&quot;Turkey&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Semi-long&quot;,&quot;pattern&quot;:&quot;All but colorpoint&quot;},{&quot;breed&quot;:&quot;Turkish Van&quot;,&quot;country&quot;:&quot;developed in the United Kingdom (founding stock from Turkey)&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Semi-long&quot;,&quot;pattern&quot;:&quot;Van&quot;},{&quot;breed&quot;:&quot;Ukrainian Levkoy&quot;,&quot;country&quot;:&quot;Ukraine&quot;,&quot;origin&quot;:&quot;&quot;,&quot;coat&quot;:&quot;Hairless&quot;,&quot;pattern&quot;:&quot;&quot;},{&quot;breed&quot;:&quot;York Chocolate&quot;,&quot;country&quot;:&quot;United States (New York)&quot;,&quot;origin&quot;:&quot;Natural&quot;,&quot;coat&quot;:&quot;Long&quot;,&quot;pattern&quot;:&quot;Solid&quot;}],&quot;first_page_url&quot;:&quot;https:\/\/catfact.ninja\/breeds?page=1&quot;,&quot;from&quot;:1,&quot;last_page&quot;:1,&quot;last_page_url&quot;:&quot;https:\/\/catfact.ninja\/breeds?page=1&quot;,&quot;links&quot;:[{&quot;url&quot;:null,&quot;label&quot;:&quot;Previous&quot;,&quot;active&quot;:false},{&quot;url&quot;:&quot;https:\/\/catfact.ninja\/breeds?page=1&quot;,&quot;label&quot;:&quot;1&quot;,&quot;active&quot;:true},{&quot;url&quot;:null,&quot;label&quot;:&quot;Next&quot;,&quot;active&quot;:false}],&quot;next_page_url&quot;:null,&quot;path&quot;:&quot;https:\/\/catfact.ninja\/breeds&quot;,&quot;per_page&quot;:&quot;100&quot;,&quot;prev_page_url&quot;:null,&quot;to&quot;:98,&quot;total&quot;:98}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://catfact.ninja/breeds?limit=100</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="454" it="0" lt="454" ct="299" ts="1681745896731" s="true" lb="Fact-34" rc="200" rm="OK" tn="" dt="text" de="" by="6178" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 17 Apr 2023 15:38:16 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+X-Ratelimit-Limit: 100
+X-Ratelimit-Remaining: 98
+Access-Control-Allow-Origin: *
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IlRPRnI1d2FLa0s2bVp2YkJ4SkUzK3c9PSIsInZhbHVlIjoiN1lWSXlSN3RhcGtIWVJVNjY5dmRiS3ljc2dvSUx6V2ZRTS9vSFVBZW0xRFRvWVhRczBzUHFYMVhGUjdVUVBmNldKaHdJb010TkpmN2NzSGUwTGxKREdvT2RxenIrZWhUdUd2WEhxSGZDL29QR0xhWmdrUnlXcUFteUpOUG1jd2giLCJtYWMiOiJhNGZmYTVkNTNkM2Q2NjRlNDBiZjAzZTUxOGJhZGE1YmRkMDBmYWRjNzQ3OTUzOTFkZDA2Y2MzNTZiNGJkMjVhIiwidGFnIjoiIn0%3D; expires=Mon, 17-Apr-2023 17:38:16 GMT; path=/; samesite=lax
+Set-Cookie: catfacts_session=eyJpdiI6ImJaYmRGc0dSWUFtV0NYRkhsWm9KdXc9PSIsInZhbHVlIjoiOUlsSkdHbnpPVFhPKzFVYW1NamVaNit0ZXN2R2VuSEJkNWJUSmJPU1FQcloycG1xRk5ZZWpybjRTM3NyTkxMeTlqKzkvQ25ZNjlSOWtOY3FORk5OMjlFZWpBSmV1Nzd6T3htRng2VGhRYkxqOUJZU2dlYWRGeUdaTlFPeVE2MVkiLCJtYWMiOiI5NGZiYjlmMGJkMTM0N2I2NmI4ODUzYWQ5NWM1NmY1ZWM1YjEzMTc3NzIxMGFiMmQ2MWVjYjUwMGFkMDViMmQ0IiwidGFnIjoiIn0%3D; expires=Mon, 17-Apr-2023 17:38:16 GMT; path=/; httponly; samesite=lax
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: cors
+Referer: https://catfact.ninja/
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept: application/json
+Host: catfact.ninja
+X-CSRF-TOKEN: WFXa7KnTbQ1TOLyqRv4FN1WsLhQPPm82d51EDWha
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Sec-Fetch-Dest: empty
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;current_page&quot;:1,&quot;data&quot;:[{&quot;fact&quot;:&quot;Cats have 3 eyelids.&quot;,&quot;length&quot;:20},{&quot;fact&quot;:&quot;Cats walk on their toes.&quot;,&quot;length&quot;:24},{&quot;fact&quot;:&quot;Most cats adore sardines.&quot;,&quot;length&quot;:25},{&quot;fact&quot;:&quot;Cats dislike citrus scent.&quot;,&quot;length&quot;:26},{&quot;fact&quot;:&quot;Cats have supersonic hearing&quot;,&quot;length&quot;:28},{&quot;fact&quot;:&quot;Female cats are polyestrous&quot;,&quot;length&quot;:28},{&quot;fact&quot;:&quot;A form of AIDS exists in cats.&quot;,&quot;length&quot;:30},{&quot;fact&quot;:&quot;Female felines are \\superfecund&quot;,&quot;length&quot;:31},{&quot;fact&quot;:&quot;Milk can give some cats diarrhea.&quot;,&quot;length&quot;:33},{&quot;fact&quot;:&quot;A group of cats is called a clowder.&quot;,&quot;length&quot;:36},{&quot;fact&quot;:&quot;A group of cats is called a \u201cclowder.\u201d&quot;,&quot;length&quot;:38},{&quot;fact&quot;:&quot;Cat&apos;s urine glows under a black light.&quot;,&quot;length&quot;:38},{&quot;fact&quot;:&quot;Cats can be right-pawed or left-pawed.&quot;,&quot;length&quot;:38},{&quot;fact&quot;:&quot;A tiger&apos;s stripes are like fingerprints&quot;,&quot;length&quot;:39},{&quot;fact&quot;:&quot;70% of your cat&apos;s life is spent asleep.&quot;,&quot;length&quot;:39},{&quot;fact&quot;:&quot;Cats have the largest eyes of any mammal.&quot;,&quot;length&quot;:41},{&quot;fact&quot;:&quot;A cat cannot see directly under its nose.&quot;,&quot;length&quot;:41},{&quot;fact&quot;:&quot;A female cat is called a queen or a molly.&quot;,&quot;length&quot;:42},{&quot;fact&quot;:&quot;There are approximately 100 breeds of cat.&quot;,&quot;length&quot;:42},{&quot;fact&quot;:&quot;Approximately 24 cat skins can make a coat.&quot;,&quot;length&quot;:43},{&quot;fact&quot;:&quot;A domestic cat can run at speeds of 30 mph.&quot;,&quot;length&quot;:43},{&quot;fact&quot;:&quot;Cats take between 20-40 breaths per minute.&quot;,&quot;length&quot;:43},{&quot;fact&quot;:&quot;The cat&apos;s tail is used to maintain balance.&quot;,&quot;length&quot;:43},{&quot;fact&quot;:&quot;A happy cat holds her tail high and steady.&quot;,&quot;length&quot;:43},{&quot;fact&quot;:&quot;A cats field of vision is about 185 degrees.&quot;,&quot;length&quot;:44},{&quot;fact&quot;:&quot;A cat can jump 5 times as high as it is tall.&quot;,&quot;length&quot;:45},{&quot;fact&quot;:&quot;A cat&apos;s field of vision is about 200 degrees.&quot;,&quot;length&quot;:45},{&quot;fact&quot;:&quot;Jaguars are the only big cats that don&apos;t roar.&quot;,&quot;length&quot;:46},{&quot;fact&quot;:&quot;Cats can jump up to 7 times their tail length.&quot;,&quot;length&quot;:46},{&quot;fact&quot;:&quot;Blue-eyed, pure white cats are frequently deaf.&quot;,&quot;length&quot;:47},{&quot;fact&quot;:&quot;On average, a cat will sleep for 16 hours a day.&quot;,&quot;length&quot;:48},{&quot;fact&quot;:&quot;Blue-eyed, white cats are often prone to deafness.&quot;,&quot;length&quot;:50},{&quot;fact&quot;:&quot;Tylenol and chocolate are both poisionous to cats.&quot;,&quot;length&quot;:50},{&quot;fact&quot;:&quot;The leopard is the most widespread of all big cats.&quot;,&quot;length&quot;:51},{&quot;fact&quot;:&quot;The cat has 500 skeletal muscles (humans have 650).&quot;,&quot;length&quot;:51},{&quot;fact&quot;:&quot;Normal body temperature for a cat is 102 degrees F.&quot;,&quot;length&quot;:51},{&quot;fact&quot;:&quot;A cat&apos;s nose is as unique as a human&apos;s fingerprint.&quot;,&quot;length&quot;:51},{&quot;fact&quot;:&quot;Like humans, cats tend to favor one paw over another&quot;,&quot;length&quot;:52},{&quot;fact&quot;:&quot;A cat can sprint at about thirty-one miles per hour.&quot;,&quot;length&quot;:52},{&quot;fact&quot;:&quot;Many cats love having their forehead gently stroked.&quot;,&quot;length&quot;:52},{&quot;fact&quot;:&quot;A cat will tremble or shiver when it is extreme pain.&quot;,&quot;length&quot;:53},{&quot;fact&quot;:&quot;Tigers are excellent swimmers and do not avoid water.&quot;,&quot;length&quot;:53},{&quot;fact&quot;:&quot;A cat will tremble or shiver when it is extreme pain.&quot;,&quot;length&quot;:53},{&quot;fact&quot;:&quot;The technical term for a cat\u2019s hairball is a \u201cbezoar.\u201d&quot;,&quot;length&quot;:54},{&quot;fact&quot;:&quot;About 37% of American homes today have at least 1 cat.&quot;,&quot;length&quot;:54},{&quot;fact&quot;:&quot;Every year, nearly four million cats are eaten in Asia.&quot;,&quot;length&quot;:55},{&quot;fact&quot;:&quot;The average litter of kittens is between 2 - 6 kittens.&quot;,&quot;length&quot;:55},{&quot;fact&quot;:&quot;A cat will tremble or shiver when it is in extreme pain.&quot;,&quot;length&quot;:56},{&quot;fact&quot;:&quot;A cat lover is called an Ailurophilia (Greek: cat+lover).&quot;,&quot;length&quot;:57},{&quot;fact&quot;:&quot;Cats control the outer ear using 32 muscles; humans use 6&quot;,&quot;length&quot;:57},{&quot;fact&quot;:&quot;A cat has two vocal chords, and can make over 100 sounds.&quot;,&quot;length&quot;:57},{&quot;fact&quot;:&quot;Kittens remain with their mother till the age of 9 weeks.&quot;,&quot;length&quot;:57},{&quot;fact&quot;:&quot;Ailurophile is the word cat lovers are officially called.&quot;,&quot;length&quot;:57},{&quot;fact&quot;:&quot;Cats have 300 million neurons; dogs have about 160 million&quot;,&quot;length&quot;:58},{&quot;fact&quot;:&quot;A cat can spend five or more hours a day grooming himself.&quot;,&quot;length&quot;:58},{&quot;fact&quot;:&quot;Cats&apos; hearing is much more sensitive than humans and dogs.&quot;,&quot;length&quot;:58},{&quot;fact&quot;:&quot;Cats bury their feces to cover their trails from predators.&quot;,&quot;length&quot;:59},{&quot;fact&quot;:&quot;While many cats enjoy milk, it will give some cats diarrhea.&quot;,&quot;length&quot;:60},{&quot;fact&quot;:&quot;In 1987 cats overtook dogs as the number one pet in America.&quot;,&quot;length&quot;:60},{&quot;fact&quot;:&quot;It is estimated that cats can make over 60 different sounds.&quot;,&quot;length&quot;:60},{&quot;fact&quot;:&quot;In 1987 cats overtook dogs as the number one pet in America.&quot;,&quot;length&quot;:60},{&quot;fact&quot;:&quot;Neutering a cat extends its life span by two or three years.&quot;,&quot;length&quot;:60},{&quot;fact&quot;:&quot;A cat&apos;s hearing is much more sensitive than humans and dogs.&quot;,&quot;length&quot;:60},{&quot;fact&quot;:&quot;Cat bites are more likely to become infected than dog bites.&quot;,&quot;length&quot;:60},{&quot;fact&quot;:&quot;A cat usually has about 12 whiskers on each side of its face.&quot;,&quot;length&quot;:61},{&quot;fact&quot;:&quot;Florence Nightingale owned more than 60 cats in her lifetime.&quot;,&quot;length&quot;:61},{&quot;fact&quot;:&quot;Baking chocolate is the most dangerous chocolate to your cat.&quot;,&quot;length&quot;:61},{&quot;fact&quot;:&quot;Cats make about 100 different sounds. Dogs make only about 10.&quot;,&quot;length&quot;:62},{&quot;fact&quot;:&quot;The Maine Coone is the only native American long haired breed.&quot;,&quot;length&quot;:62},{&quot;fact&quot;:&quot;Today there are about 100 distinct breeds of the domestic cat.&quot;,&quot;length&quot;:62},{&quot;fact&quot;:&quot;Cats have been domesticated for half as long as dogs have been.&quot;,&quot;length&quot;:63},{&quot;fact&quot;:&quot;The first cat show was in 1871 at the Crystal Palace in London.&quot;,&quot;length&quot;:63},{&quot;fact&quot;:&quot;Cats see six times better in the dark and at night than humans.&quot;,&quot;length&quot;:63},{&quot;fact&quot;:&quot;The Pilgrims were the first to introduce cats to North America.&quot;,&quot;length&quot;:63},{&quot;fact&quot;:&quot;The average cat food meal is the equivalent to about five mice.&quot;,&quot;length&quot;:63},{&quot;fact&quot;:&quot;Cats spend nearly 1\/3 of their waking hours cleaning themselves.&quot;,&quot;length&quot;:64},{&quot;fact&quot;:&quot;A cat&apos;s normal temperature varies around 101 degrees Fahrenheit.&quot;,&quot;length&quot;:64},{&quot;fact&quot;:&quot;The Ancient Egyptian word for cat was mau, which means \&quot;to see\&quot;.&quot;,&quot;length&quot;:64},{&quot;fact&quot;:&quot;The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.&quot;,&quot;length&quot;:64},{&quot;fact&quot;:&quot;A cat can jump up to five times its own height in a single bound.&quot;,&quot;length&quot;:65},{&quot;fact&quot;:&quot;There are up to 60 million feral cats in the United States alone.&quot;,&quot;length&quot;:65},{&quot;fact&quot;:&quot;In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).&quot;,&quot;length&quot;:65},{&quot;fact&quot;:&quot;Cats respond most readily to names that end in an \\ee\\\&quot; sound.\&quot;\&quot;\&quot;&quot;,&quot;length&quot;:65},{&quot;fact&quot;:&quot;Cats only sweat through their paws and nowhere else on their body&quot;,&quot;length&quot;:65},{&quot;fact&quot;:&quot;Owning a cat is actually proven to be beneficial for your health.&quot;,&quot;length&quot;:65},{&quot;fact&quot;:&quot;A cat&apos;s brain is more similar to a man&apos;s brain than that of a dog.&quot;,&quot;length&quot;:66},{&quot;fact&quot;:&quot;A healthy cat has a temperature between 38 and 39 degrees Celcius.&quot;,&quot;length&quot;:66},{&quot;fact&quot;:&quot;Cheetahs do not roar, as the other big cats do. Instead, they purr.&quot;,&quot;length&quot;:67},{&quot;fact&quot;:&quot;Fossil records from two million years ago show evidence of jaguars.&quot;,&quot;length&quot;:67},{&quot;fact&quot;:&quot;Approximately 40,000 people are bitten by cats in the U.S. annually.&quot;,&quot;length&quot;:68},{&quot;fact&quot;:&quot;The Amur leopard is one of the most endangered animals in the world.&quot;,&quot;length&quot;:68},{&quot;fact&quot;:&quot;Cats lap liquid from the underside of their tongue, not from the top.&quot;,&quot;length&quot;:69},{&quot;fact&quot;:&quot;If they have ample water, cats can tolerate temperatures up to 133 \u00b0F.&quot;,&quot;length&quot;:70},{&quot;fact&quot;:&quot;A cat has more bones than a human; humans have 206, and the cat - 230.&quot;,&quot;length&quot;:70},{&quot;fact&quot;:&quot;British cat owners spend roughly 550 million pounds yearly on cat food.&quot;,&quot;length&quot;:71},{&quot;fact&quot;:&quot;Unlike other cats, lions have a tuft of hair at the end of their tails.&quot;,&quot;length&quot;:71},{&quot;fact&quot;:&quot;The cat&apos;s footpads absorb the shocks of the landing when the cat jumps.&quot;,&quot;length&quot;:71},{&quot;fact&quot;:&quot;All cats have claws, and all except the cheetah sheath them when at rest.&quot;,&quot;length&quot;:73},{&quot;fact&quot;:&quot;A cat&apos;s normal pulse is 140-240 beats per minute, with an average of 195.&quot;,&quot;length&quot;:73},{&quot;fact&quot;:&quot;A cat&apos;s normal pulse is 140-240 beats per minute, with an average of 195.&quot;,&quot;length&quot;:73},{&quot;fact&quot;:&quot;Heat occurs several times a year and can last anywhere from 3 to 15 days.&quot;,&quot;length&quot;:73},{&quot;fact&quot;:&quot;The life expectancy of cats has nearly doubled over the last fifty years.&quot;,&quot;length&quot;:73},{&quot;fact&quot;:&quot;In relation to their body size, cats have the largest eyes of any mammal.&quot;,&quot;length&quot;:73},{&quot;fact&quot;:&quot;A cat\u2019s jaw can\u2019t move sideways, so a cat can\u2019t chew large chunks of food.&quot;,&quot;length&quot;:74},{&quot;fact&quot;:&quot;The richest cat is Blackie who was left \u00a315 million by his owner, Ben Rea.&quot;,&quot;length&quot;:74},{&quot;fact&quot;:&quot;Cats step with both left legs, then both right legs when they walk or run.&quot;,&quot;length&quot;:74},{&quot;fact&quot;:&quot;Julius Ceasar, Henri II, Charles XI, and Napoleon were all afraid of cats.&quot;,&quot;length&quot;:74},{&quot;fact&quot;:&quot;In the 1750s, Europeans introduced cats into the Americas to control pests.&quot;,&quot;length&quot;:75},{&quot;fact&quot;:&quot;An adult lion&apos;s roar can be heard up to five miles (eight kilometers) away.&quot;,&quot;length&quot;:75},{&quot;fact&quot;:&quot;The first formal cat show was held in England in 1871; in America, in 1895.&quot;,&quot;length&quot;:75},{&quot;fact&quot;:&quot;An adult lion&apos;s roar can be heard up to five miles (eight kilometers) away.&quot;,&quot;length&quot;:75},{&quot;fact&quot;:&quot;In multi-cat households, cats of the opposite sex usually get along better.&quot;,&quot;length&quot;:75},{&quot;fact&quot;:&quot;Cats&apos; hearing stops at 65 khz (kilohertz); humans&apos; hearing stops at 20 khz.&quot;,&quot;length&quot;:75},{&quot;fact&quot;:&quot;When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.&quot;,&quot;length&quot;:76},{&quot;fact&quot;:&quot;A tomcat (male cat) can begin mating when he is between 7 and 10 months old.&quot;,&quot;length&quot;:76},{&quot;fact&quot;:&quot;Cats must have fat in their diet because they can&apos;t produce it on their own.&quot;,&quot;length&quot;:76},{&quot;fact&quot;:&quot;A steady diet of dog food may cause blindness in your cat - it lacks taurine.&quot;,&quot;length&quot;:77},{&quot;fact&quot;:&quot;A queen (female cat) can begin mating when she is between 5 and 9 months old.&quot;,&quot;length&quot;:77},{&quot;fact&quot;:&quot;Ginger tabby cats can have freckles around their mouths and on their eyelids!&quot;,&quot;length&quot;:77},{&quot;fact&quot;:&quot;Approximately 1\/3 of cat owners think their pets are able to read their minds.&quot;,&quot;length&quot;:78},{&quot;fact&quot;:&quot;The first official cat show in the UK was organised at Crystal Palace in 1871.&quot;,&quot;length&quot;:78},{&quot;fact&quot;:&quot;The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.&quot;,&quot;length&quot;:79},{&quot;fact&quot;:&quot;Cats lived with soldiers in trenches, where they killed mice during World War I.&quot;,&quot;length&quot;:80},{&quot;fact&quot;:&quot;Both humans and cats have identical regions in the brain responsible for emotion.&quot;,&quot;length&quot;:81},{&quot;fact&quot;:&quot;Abraham Lincoln loved cats. He had four of them while he lived in the White House.&quot;,&quot;length&quot;:82},{&quot;fact&quot;:&quot;Cats have \&quot;nine lives\&quot; thanks to a flexible spine and powerful leg and back muscles&quot;,&quot;length&quot;:83},{&quot;fact&quot;:&quot;Cats have about 130,000 hairs per square inch (20,155 hairs per square centimeter).&quot;,&quot;length&quot;:83},{&quot;fact&quot;:&quot;The ancestor of all domestic cats is the African Wild Cat which still exists today.&quot;,&quot;length&quot;:83},{&quot;fact&quot;:&quot;A cat has more bones than a human being; humans have 206 and the cat has 230 bones.&quot;,&quot;length&quot;:83},{&quot;fact&quot;:&quot;The average cat can jump 8 feet in a single bound, nearly six times its body length!&quot;,&quot;length&quot;:83},{&quot;fact&quot;:&quot;Cats are the world&apos;s most popular pets, outnumbering dogs by as many as three to one&quot;,&quot;length&quot;:84},{&quot;fact&quot;:&quot;Many Egyptians worshipped the goddess Bast, who had a woman\u2019s body and a cat\u2019s head.&quot;,&quot;length&quot;:84},{&quot;fact&quot;:&quot;The cat appears to be the only domestic companion animal not mentioned in the Bible.&quot;,&quot;length&quot;:84},{&quot;fact&quot;:&quot;The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.&quot;,&quot;length&quot;:84},{&quot;fact&quot;:&quot;The cat appears to be the only domestic companion animal not mentioned in the Bible.&quot;,&quot;length&quot;:84},{&quot;fact&quot;:&quot;A 2007 Gallup poll revealed that both men and women were equally likely to own a cat.&quot;,&quot;length&quot;:85},{&quot;fact&quot;:&quot;Cats come back to full alertness from the sleep state faster than any other creature.&quot;,&quot;length&quot;:85},{&quot;fact&quot;:&quot;It has been scientifically proven that stroking a cat can lower one&apos;s blood pressure.&quot;,&quot;length&quot;:85},{&quot;fact&quot;:&quot;A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.&quot;,&quot;length&quot;:86},{&quot;fact&quot;:&quot;In an average year, cat owners in the United States spend over $2 billion on cat food.&quot;,&quot;length&quot;:86},{&quot;fact&quot;:&quot;Cats can judge within 3 inches the precise location of a sound being made 1 yard away.&quot;,&quot;length&quot;:86},{&quot;fact&quot;:&quot;A cat\u2019s nose pad is ridged with a unique pattern, just like the fingerprint of a human.&quot;,&quot;length&quot;:87},{&quot;fact&quot;:&quot;Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.&quot;,&quot;length&quot;:87},{&quot;fact&quot;:&quot;Many cats cannot properly digest cow&apos;s milk. Milk and milk products give them diarrhea.&quot;,&quot;length&quot;:87},{&quot;fact&quot;:&quot;A cat\u2019s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.&quot;,&quot;length&quot;:88},{&quot;fact&quot;:&quot;Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.&quot;,&quot;length&quot;:89},{&quot;fact&quot;:&quot;The name \&quot;jaguar\&quot; comes from a Native American word meaning \&quot;he who kills with one leap\&quot;.&quot;,&quot;length&quot;:89},{&quot;fact&quot;:&quot;Among many other diseases, cats can suffer from anorexia, senility, feline AIDS and acne.&quot;,&quot;length&quot;:89},{&quot;fact&quot;:&quot;According to a Gallup poll, most American pet owners obtain their cats by adopting strays.&quot;,&quot;length&quot;:90},{&quot;fact&quot;:&quot;If your cat snores, or rolls over on his back to expose his belly, it means he trusts you.&quot;,&quot;length&quot;:90}],&quot;first_page_url&quot;:&quot;https:\/\/catfact.ninja\/facts?page=1&quot;,&quot;from&quot;:1,&quot;last_page&quot;:2,&quot;last_page_url&quot;:&quot;https:\/\/catfact.ninja\/facts?page=2&quot;,&quot;links&quot;:[{&quot;url&quot;:null,&quot;label&quot;:&quot;Previous&quot;,&quot;active&quot;:false},{&quot;url&quot;:&quot;https:\/\/catfact.ninja\/facts?page=1&quot;,&quot;label&quot;:&quot;1&quot;,&quot;active&quot;:true},{&quot;url&quot;:&quot;https:\/\/catfact.ninja\/facts?page=2&quot;,&quot;label&quot;:&quot;2&quot;,&quot;active&quot;:false},{&quot;url&quot;:&quot;https:\/\/catfact.ninja\/facts?page=2&quot;,&quot;label&quot;:&quot;Next&quot;,&quot;active&quot;:false}],&quot;next_page_url&quot;:&quot;https:\/\/catfact.ninja\/facts?page=2&quot;,&quot;path&quot;:&quot;https:\/\/catfact.ninja\/facts&quot;,&quot;per_page&quot;:&quot;150&quot;,&quot;prev_page_url&quot;:null,&quot;to&quot;:150,&quot;total&quot;:174}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">XSRF-TOKEN=eyJpdiI6IkR3d01DOVlBeloyRFRwVU5NY3Zxd3c9PSIsInZhbHVlIjoiZDJaSDUwVkp2SFJhY2xZQmJmVWJmbzI3OGdoemkrcGRUVWJjV0dOdjFQQ3dVNDhVVG9teHY0YWlETUxLcTZiTjFxeElaenpsTHY4TWlsa0xTcld0cXdmUlpRVUp6L0NyenRvdENvWFA2QUM5MC9zZmI5OG81dE04K2dWWVdOV0giLCJtYWMiOiI5OTNlNTJiNDIzZDZjMGY5Y2FiYzMzNGJjMTJjNDUwOWYxNWYyMzA1M2I1MTU1ZWNlMjg0MThhNzM4ZTg0NjE2IiwidGFnIjoiIn0%3D; catfacts_session=eyJpdiI6InZPMkdaekNvQXQ2ZHdqdExXUGpxa2c9PSIsInZhbHVlIjoiWHU0aTlUT1ZqQmNQdnJETFM4eHJxSldkV1lFalJnY2lRVXA1YXcxMUdWQVd5NnlLZjZXOVdKbGNXOXJHK2ZXamR2WnpUb0V0M29LSUJyakl0aGh0Q2t5UVMwcjRXNFJGdGlzRFlFbGgyR1FFbDY3TlpZY2J5QzN6UHhybDUwa1MiLCJtYWMiOiI3OWMxNGQ3MDg5MGRmMDMwZWVhMTFlMjZjNWNiMjZkZGRlYTM1NTA4OWZlMTQzZWEzMDRhZmVhMWMzOGI4NjhkIiwidGFnIjoiIn0%3D</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://catfact.ninja/facts?max_length=100&amp;limit=150</java.net.URL>
+</httpSample>
+
 </testResults>
