@@ -788,4 +788,405 @@ Sec-Fetch-Dest: empty
   <java.net.URL>https://catfact.ninja/facts?max_length=100&amp;limit=150</java.net.URL>
 </httpSample>
 
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="contile.services.mozilla.com:443" rc="" rm="Software caused connection abort: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1912" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT contile.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-signature-2.cdn.mozilla.net:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-signature-2.cdn.mozilla.net:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="firefox.settings.services.mozilla.com:443" rc="" rm="Software caused connection abort: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1912" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Software caused connection abort: recv failed&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1223" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Software caused connection abort: recv failed&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1223" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Software caused connection abort: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1912" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="safebrowsing.googleapis.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="840" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT safebrowsing.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="aus5.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT aus5.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="shavar.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT shavar.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="genderize.io:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT genderize.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Software caused connection abort: socket write error&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1742" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="incoming.telemetry.mozilla.org:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="genderize.io:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="840" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT genderize.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="genderize.io:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT genderize.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="599" it="0" lt="598" ct="436" ts="1681756305938" s="true" lb="Open-22" rc="200" rm="OK" tn="" dt="text" de="UTF-8" by="1938" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Mon, 17 Apr 2023 18:31:45 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: no-cache, private
+Link: &lt;https://genderize.io&gt;; rel=&quot;canonical&quot;
+Set-Cookie: XSRF-TOKEN=eyJpdiI6Ik42KzRTdU1oZGVjTGpcL2FDUHZYMmV3PT0iLCJ2YWx1ZSI6Ilh0ZFFCQ1hcL0FwT0FMcmhCRjh2RkxBazRCMGE4cVpia2YwXC9rbWFDMTVxQlRXQ2FQZ2EzVmQyRHpLRmtVMnpINyIsIm1hYyI6Ijk3YjcwZjMxYWYwMzNiNWQ5YTRlNWRlZjBjMTk3OWNhMjViZmJkN2Y2MGI5MzY2MjgyYTY3N2Y2MDQ1MTY0NjcifQ%3D%3D; expires=Mon, 17-Apr-2023 20:31:45 GMT; Max-Age=7200; path=/
+Set-Cookie: genderize_session=eyJpdiI6ImdlWkkyWXZZd1ZrbktucDV3Wko1UWc9PSIsInZhbHVlIjoiemRvRzVESytoc2tuaVZCV2xSWUFuc0dOVmJtNERsN01Pck0zXC9EcXV2QW02K0FZdkhvTzk5bnFZWDNqT1MzZXAiLCJtYWMiOiIzYWJlZTRlNzE4MDBkZGQ3OTg3MTEyN2QzYjY2YzQ3YzUwNDlhZTdhMmViZjY1ZTljMDlmMDE4ZDA0ZTAzMTM2In0%3D; expires=Mon, 17-Apr-2023 20:31:45 GMT; Max-Age=7200; path=/; httponly
+Content-Encoding: gzip
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://genderize.io/
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: genderize.io
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;utf-8&quot;&gt;
+        &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+        &lt;meta name=&quot;author&quot; content=&quot;Genderize.io&quot;&gt;
+        &lt;title&gt;Genderize.io | Determine the gender of a name&lt;/title&gt;
+        &lt;meta name=&quot;description&quot; content=&quot;Free API to predict the gender of a name. Easy integration into any platform. Over 250.000 names in our database, Serving more than 1 million requests/day.&quot;&gt;
+        &lt;link rel=&quot;canonical&quot; href=&quot;https://genderize.io&quot;&gt;
+        &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; href=&quot;https://genderize.io/favicon.png&quot;&gt;
+        &lt;link rel=&quot;stylesheet&quot; href=&quot;https://fonts.googleapis.com/css?family=Fauna+One|Roboto:300,400,500&amp;display=swap&quot;&gt;
+        
+        &lt;!-- Google Tag Manager --&gt;
+        &lt;script&gt;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({&apos;gtm.start&apos;:
+        new Date().getTime(),event:&apos;gtm.js&apos;});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!=&apos;dataLayer&apos;?&apos;&amp;l=&apos;+l:&apos;&apos;;j.async=true;j.src=
+        &apos;https://www.googletagmanager.com/gtm.js?id=&apos;+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,&apos;script&apos;,&apos;dataLayer&apos;,&apos;GTM-MMRCRQN&apos;);&lt;/script&gt;
+        &lt;!-- End Google Tag Manager --&gt;
+
+        &lt;style&gt;
+            html, body, #genderize {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                width: 100%;
+                max-width: 100%;
+                background-color: #fefefe;
+            }
+        &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;!-- Google Tag Manager (noscript) --&gt;
+        &lt;noscript&gt;&lt;iframe src=&quot;https://www.googletagmanager.com/ns.html?id=GTM-MMRCRQN&quot;
+        height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;&gt;&lt;/iframe&gt;&lt;/noscript&gt;
+        &lt;!-- End Google Tag Manager (noscript) --&gt;
+        &lt;div id=&quot;genderize&quot;&gt;&lt;/div&gt;
+
+        &lt;script src=&quot;https://genderize.io/js/Genderize.js&quot;&gt;&lt;/script&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://genderize.io/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="fonts.googleapis.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT fonts.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.googletagmanager.com:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.googletagmanager.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="api.genderize.io:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="840" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT api.genderize.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="api.genderize.io:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT api.genderize.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="firefox.settings.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="985" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="230" it="0" lt="230" ct="28" ts="1681756327506" s="false" lb="Open-38" rc="400" rm="Bad Request" tn="" dt="text" de="" by="229" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 400 Bad Request
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Mon, 17 Apr 2023 18:32:07 GMT
+Date: Mon, 17 Apr 2023 18:32:07 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Host: r3.o.lencr.org
+Content-Type: application/ocsp-request
+Cache-Control: no-cache
+Accept-Encoding: gzip, deflate
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Accept: */*
+Content-Length: 139
+</requestHeader>
+  <responseData class="java.lang.String">0&#x3;
+&#x1;&#x1;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">0S0Q0O0M0K0	&#x6;&#x5;+&#xe;&#x3;&#x2;&#x1a;&#x5;&#x0;&#x4;&#x14;H�ɠ�+�-O��h��g�5���&#x4;&#x14;&#x14;.�&#x17;�XVˮP	@�&#x1f;���&#x14;��&#x2;&#x12;&#x4;o��F�n2&#x8;)���_�&gt;&#x16;�</queryString>
+  <java.net.URL>http://r3.o.lencr.org/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="api.genderize.io:443" rc="" rm="Connection reset&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1018" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT api.genderize.io:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="697" it="0" lt="697" ct="550" ts="1681756329604" s="true" lb="Open-39" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="701" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Mon, 17 Apr 2023 18:32:09 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 201
+Connection: close
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 1000
+x-rate-limit-remaining: 996
+x-rate-limit-reset: 19671
+x-request-id: F1bMeKvr-S6x65BcRESy
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Referer: https://api.genderize.io/?name[]=peter&amp;name[]=lois&amp;name[]=stevie
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Sec-Fetch-User: ?1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Host: api.genderize.io
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">[{&quot;count&quot;:1094417,&quot;gender&quot;:&quot;male&quot;,&quot;name&quot;:&quot;peter&quot;,&quot;probability&quot;:1.0},{&quot;count&quot;:50141,&quot;gender&quot;:&quot;female&quot;,&quot;name&quot;:&quot;lois&quot;,&quot;probability&quot;:0.98},{&quot;count&quot;:2840,&quot;gender&quot;:&quot;male&quot;,&quot;name&quot;:&quot;stevie&quot;,&quot;probability&quot;:0.86}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://api.genderize.io/?name%5B%5D=peter&amp;name%5B%5D=lois&amp;name%5B%5D=stevie</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="push.services.mozilla.com:443" rc="" rm="Received fatal alert: bad_certificate&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1119" sc="1" ec="1" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT push.services.mozilla.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+<httpSample t="496" it="0" lt="495" ct="372" ts="1681757462669" s="true" lb="get-43" rc="200" rm="OK" tn="" dt="text" de="utf-8" by="701" sc="1" ec="0" ng="0" na="0" hn="Romano">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Mon, 17 Apr 2023 18:51:02 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 201
+Connection: close
+access-control-allow-credentials: true
+access-control-allow-origin: *
+access-control-expose-headers: x-rate-limit-limit,x-rate-limit-remaining,x-rate-limit-reset
+cache-control: max-age=0, private, must-revalidate
+x-rate-limit-limit: 1000
+x-rate-limit-remaining: 966
+x-rate-limit-reset: 18538
+x-request-id: F1bNgG-ZyoNVSpBeSa1R
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Host: api.genderize.io
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-User: ?1
+Accept-Encoding: gzip, deflate, br
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">[{&quot;count&quot;:1094417,&quot;gender&quot;:&quot;male&quot;,&quot;name&quot;:&quot;peter&quot;,&quot;probability&quot;:1.0},{&quot;count&quot;:50141,&quot;gender&quot;:&quot;female&quot;,&quot;name&quot;:&quot;lois&quot;,&quot;probability&quot;:0.98},{&quot;count&quot;:1178307,&quot;gender&quot;:&quot;male&quot;,&quot;name&quot;:&quot;mark&quot;,&quot;probability&quot;:1.0}]</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://api.genderize.io/?name%5B%5D=peter&amp;name%5B%5D=lois&amp;name%5B%5D=mark</java.net.URL>
+</httpSample>
+
 </testResults>
