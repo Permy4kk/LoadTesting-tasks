@@ -1,208 +1,100 @@
-17/04/2023 13:44:14 | {"activity":"Have a paper airplane contest with some friends","type":"social","participants":4,"price":0.02,"link":"","key":"8557562","accessibility":0.05}
-17/04/2023 14:12:06 | {"activity":"Contribute code or a monetary donation to an open-source software project","type":"charity","participants":1,"price":0.1,"link":"https://github.com/explore","key":"7687030","accessibility":0}
-17/04/2023 14:13:03 | {"activity":"Go to a karaoke bar with some friends","type":"social","participants":4,"price":0.5,"link":"","key":"9072906","accessibility":0.35}
-17/04/2023 14:13:09 | {"activity":"Hold a video game tournament with some friends","type":"social","participants":4,"price":0,"link":"","key":"2300257","accessibility":0.1}
-17/04/2023 14:13:15 | {"activity":"Pot some plants and put them around your house","type":"relaxation","participants":1,"price":0.4,"link":"","key":"6613330","accessibility":0.3}
-17/04/2023 14:13:22 | {"activity":"Color","type":"relaxation","participants":1,"price":0.1,"link":"","key":"5322987","accessibility":0}
-17/04/2023 14:13:28 | {"activity":"Make your own LEGO creation","type":"recreational","participants":1,"price":0,"link":"","key":"1129748","accessibility":0.1}
-17/04/2023 14:13:34 | {"activity":"Learn to play a new instrument","type":"music","participants":1,"price":0.55,"link":"","key":"3192099","accessibility":0.6}
-17/04/2023 14:13:40 | {"activity":"Learn how to iceskate or rollerskate","type":"recreational","participants":1,"price":0.1,"link":"","key":"5947957","accessibility":0.25}
-17/04/2023 14:13:46 | {"activity":"Mow your neighbor's lawn","type":"charity","participants":1,"price":0,"link":"","key":"1303906","accessibility":0.2}
-17/04/2023 14:13:52 | {"activity":"Learn GraphQL","type":"education","participants":1,"price":0,"link":"https://graphql.org/","key":"2167064","accessibility":0.8}
-17/04/2023 14:13:59 | {"activity":"Memorize a favorite quote or poem","type":"education","participants":1,"price":0,"link":"","key":"9008639","accessibility":0.8}
-17/04/2023 14:14:05 | {"activity":"Learn woodworking","type":"diy","participants":1,"price":0.3,"link":"","key":"9216391","accessibility":0.3}
-17/04/2023 14:14:11 | {"activity":"Volunteer at a local animal shelter","type":"charity","participants":1,"price":0.1,"link":"","key":"1382389","accessibility":0.5}
-17/04/2023 14:14:17 | {"activity":"Watch a Khan Academy lecture on a subject of your choosing","type":"education","participants":1,"price":0,"link":"https://www.khanacademy.org/","key":"7154873","accessibility":0}
-17/04/2023 14:14:24 | {"activity":"Read a formal research paper on an interesting subject","type":"education","participants":1,"price":0,"link":"","key":"3352474","accessibility":0.1}
-17/04/2023 14:14:30 | {"activity":"Create or update your resume","type":"busywork","participants":1,"price":0,"link":"","key":"9364041","accessibility":0.1}
-17/04/2023 14:14:36 | {"activity":"Learn how to make a website","type":"education","participants":1,"price":0.1,"link":"","key":"9924423","accessibility":0.3}
-17/04/2023 14:14:42 | {"activity":"Go to a concert with local artists with some friends","type":"social","participants":3,"price":0.4,"link":"","key":"2211716","accessibility":0.3}
-17/04/2023 14:14:48 | {"activity":"Learn to write with your nondominant hand","type":"recreational","participants":1,"price":0,"link":"","key":"1645485","accessibility":0.02}
-17/04/2023 14:14:54 | {"activity":"Play a game of tennis with a friend","type":"social","participants":2,"price":0.1,"link":"","key":"1093640","accessibility":0.4}
-17/04/2023 14:15:01 | {"activity":"Learn how to beatbox","type":"recreational","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Beatboxing","key":"8731710","accessibility":1}
-17/04/2023 14:15:07 | {"activity":"Resolve a problem you've been putting off","type":"busywork","participants":1,"price":0,"link":"","key":"9999999","accessibility":0}
-17/04/2023 14:15:13 | {"activity":"Volunteer at a local animal shelter","type":"charity","participants":1,"price":0.1,"link":"","key":"1382389","accessibility":0.5}
-17/04/2023 14:15:19 | {"activity":"Learn how to make a website","type":"education","participants":1,"price":0.1,"link":"","key":"9924423","accessibility":0.3}
-17/04/2023 14:15:26 | {"activity":"Practice coding in your favorite lanaguage","type":"recreational","participants":1,"price":0,"link":"","key":"7096020","accessibility":0.1}
-17/04/2023 14:15:32 | {"activity":"Learn about the Golden Ratio","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Golden_ratio","key":"2095681","accessibility":0.2}
-17/04/2023 14:15:38 | {"activity":"Make tie dye shirts","type":"diy","participants":1,"price":0.2,"link":"","key":"8092359","accessibility":0.2}
-17/04/2023 14:15:44 | {"activity":"Pick up litter around your favorite park","type":"charity","participants":1,"price":0,"link":"","key":"4894697","accessibility":0.05}
-17/04/2023 14:15:50 | {"activity":"Take a hike at a local park","type":"recreational","participants":1,"price":0,"link":"","key":"8724324","accessibility":0.1}
-17/04/2023 14:15:56 | {"activity":"Organize your basement","type":"busywork","participants":1,"price":0,"link":"","key":"8203595","accessibility":0.9}
-17/04/2023 14:16:03 | {"activity":"Think of a new business idea","type":"recreational","participants":1,"price":0,"link":"","key":"6808057","accessibility":0.05}
-17/04/2023 14:16:09 | {"activity":"Organize your music collection","type":"busywork","participants":1,"price":0,"link":"","key":"3151646","accessibility":0}
-17/04/2023 14:16:15 | {"activity":"Practice coding in your favorite lanaguage","type":"recreational","participants":1,"price":0,"link":"","key":"7096020","accessibility":0.1}
-17/04/2023 14:16:21 | {"activity":"Donate blood at a local blood center","type":"charity","participants":1,"price":0,"link":"https://www.redcross.org/give-blood","key":"6509779","accessibility":0.35}
-17/04/2023 14:16:28 | {"activity":"Listen to music you haven't heard in a while","type":"music","participants":1,"price":0.05,"link":"","key":"4296813","accessibility":0.9}
-17/04/2023 14:16:34 | {"activity":"Watch a Khan Academy lecture on a subject of your choosing","type":"education","participants":1,"price":0,"link":"https://www.khanacademy.org/","key":"7154873","accessibility":0}
-17/04/2023 14:16:40 | {"activity":"Go to a concert with some friends","type":"social","participants":4,"price":0.6,"link":"","key":"4558850","accessibility":0.4}
-17/04/2023 14:16:46 | {"activity":"Mow your neighbor's lawn","type":"charity","participants":1,"price":0,"link":"","key":"1303906","accessibility":0.2}
-17/04/2023 14:16:52 | {"activity":"Listen to a new podcast","type":"relaxation","participants":1,"price":0.05,"link":"","key":"4124860","accessibility":0.12}
-17/04/2023 14:16:58 | {"activity":"Go on a fishing trip with some friends","type":"social","participants":3,"price":0.4,"link":"","key":"3149232","accessibility":0.4}
-17/04/2023 14:17:05 | {"activity":"Back up important computer files","type":"busywork","participants":1,"price":0.2,"link":"","key":"9081214","accessibility":0.2}
-17/04/2023 14:17:11 | {"activity":"Learn a new programming language","type":"education","participants":1,"price":0.1,"link":"","key":"5881028","accessibility":0.25}
-17/04/2023 14:17:17 | {"activity":"Clean out your closet and donate the clothes you've outgrown","type":"charity","participants":1,"price":0,"link":"","key":"9026787","accessibility":0.1}
-17/04/2023 14:17:23 | {"activity":"Find a DIY to do","type":"diy","participants":1,"price":0.4,"link":"","key":"4981819","accessibility":0.3}
-17/04/2023 14:17:30 | {"activity":"Clean out your car","type":"busywork","participants":1,"price":0,"link":"","key":"2896176","accessibility":0.08}
-17/04/2023 14:17:36 | {"activity":"Learn GraphQL","type":"education","participants":1,"price":0,"link":"https://graphql.org/","key":"2167064","accessibility":0.8}
-17/04/2023 14:17:42 | {"activity":"Memorize a favorite quote or poem","type":"education","participants":1,"price":0,"link":"","key":"9008639","accessibility":0.8}
-17/04/2023 14:17:48 | {"activity":"Make a scrapbook with pictures of your favorite memories","type":"diy","participants":1,"price":0.1,"link":"","key":"5554174","accessibility":0.1}
-17/04/2023 14:17:54 | {"activity":"Do yoga","type":"recreational","participants":1,"price":0,"link":"","key":"4688012","accessibility":0.9}
-17/04/2023 14:18:00 | {"activity":"Make homemade ice cream","type":"cooking","participants":1,"price":0.2,"link":"","key":"3818400","accessibility":0.2}
-17/04/2023 14:18:07 | {"activity":"Pull a harmless prank on one of your friends","type":"social","participants":1,"price":0.1,"link":"","key":"1288934","accessibility":0.2}
-17/04/2023 14:18:13 | {"activity":"Create and follow a savings plan","type":"busywork","participants":1,"price":0,"link":"","key":"9366464","accessibility":0.2}
-17/04/2023 14:18:19 | {"activity":"Memorize a favorite quote or poem","type":"education","participants":1,"price":0,"link":"","key":"9008639","accessibility":0.8}
-17/04/2023 14:18:25 | {"activity":"Organize your basement","type":"busywork","participants":1,"price":0,"link":"","key":"8203595","accessibility":0.9}
-17/04/2023 14:18:32 | {"activity":"Think of a new business idea","type":"recreational","participants":1,"price":0,"link":"","key":"6808057","accessibility":0.05}
-17/04/2023 14:18:38 | {"activity":"Learn and play a new card game","type":"recreational","participants":1,"price":0,"link":"https://www.pagat.com","key":"9660022","accessibility":0}
-17/04/2023 14:18:44 | {"activity":"Give your pet ten minutes of focused attention","type":"relaxation","participants":1,"price":0,"link":"","key":"9937387","accessibility":0}
-17/04/2023 14:18:50 | {"activity":"Learn to sew on a button","type":"education","participants":1,"price":0.05,"link":"","key":"8731971","accessibility":0.1}
-17/04/2023 14:18:56 | {"activity":"Plan a trip to another country","type":"recreational","participants":1,"price":0,"link":"","key":"5554727","accessibility":0}
-17/04/2023 14:35:17 | {"activity":"Write a list of things you are grateful for","type":"relaxation","participants":1,"price":0,"link":"","key":"2062010","accessibility":0}
-17/04/2023 14:35:22 | {"activity":"Organize your movie collection","type":"busywork","participants":1,"price":0,"link":"","key":"6378359","accessibility":0}
-17/04/2023 14:35:28 | {"activity":"Learn how to use an Arduino","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Arduino","key":"8264223","accessibility":0.7}
-17/04/2023 14:35:34 | {"activity":"Patronize a local independent restaurant","type":"recreational","participants":1,"price":0.2,"link":"","key":"5319204","accessibility":0.1}
-17/04/2023 14:35:40 | {"activity":"Play a game of tennis with a friend","type":"social","participants":2,"price":0.1,"link":"","key":"1093640","accessibility":0.4}
-17/04/2023 14:35:46 | {"activity":"Learn to write with your nondominant hand","type":"recreational","participants":1,"price":0,"link":"","key":"1645485","accessibility":0.02}
-17/04/2023 14:35:52 | {"activity":"Bake pastries for you and your neighbor","type":"cooking","participants":1,"price":0.4,"link":"","key":"8125168","accessibility":0.3}
-17/04/2023 14:35:58 | {"activity":"Go to a music festival with some friends","type":"social","participants":4,"price":0.4,"link":"","key":"6482790","accessibility":0.2}
-17/04/2023 14:36:04 | {"activity":"Make bread from scratch","type":"cooking","participants":1,"price":0.2,"link":"","key":"4809815","accessibility":0.2}
-17/04/2023 14:36:10 | {"activity":"Learn how the internet works","type":"education","participants":1,"price":0,"link":"","key":"9414706","accessibility":0.1}
-17/04/2023 14:36:16 | {"activity":"Plan a vacation you've always wanted to take","type":"relaxation","participants":1,"price":0,"link":"","key":"7265395","accessibility":0.05}
-17/04/2023 14:36:23 | {"activity":"Make a budget","type":"busywork","participants":1,"price":0,"link":"","key":"4379552","accessibility":0.1}
-17/04/2023 14:36:28 | {"activity":"Learn a new recipe","type":"cooking","participants":1,"price":0,"link":"","key":"6553978","accessibility":0.05}
-17/04/2023 14:36:34 | {"activity":"Donate to your local food bank","type":"charity","participants":1,"price":0.5,"link":"","key":"4150284","accessibility":0.8}
-17/04/2023 14:36:40 | {"activity":"Make a new friend","type":"social","participants":1,"price":0,"link":"","key":"1000000","accessibility":0}
-17/04/2023 14:36:46 | {"activity":"Contribute code or a monetary donation to an open-source software project","type":"charity","participants":1,"price":0.1,"link":"https://github.com/explore","key":"7687030","accessibility":0}
-17/04/2023 14:36:52 | {"activity":"Color","type":"relaxation","participants":1,"price":0.1,"link":"","key":"5322987","accessibility":0}
-17/04/2023 14:36:58 | {"activity":"Start a webinar on a topic of your choice","type":"education","participants":1,"price":0,"link":"","key":"6826029","accessibility":0.9}
-17/04/2023 14:37:04 | {"activity":"Visit a nearby museum","type":"recreational","participants":1,"price":0.2,"link":"","key":"5490351","accessibility":0.7}
-17/04/2023 14:37:10 | {"activity":"Learn the Chinese erhu","type":"music","participants":1,"price":0.6,"link":"","key":"2742452","accessibility":0.4}
-17/04/2023 14:37:16 | {"activity":"Take a spontaneous road trip with some friends","type":"social","participants":4,"price":0.2,"link":"","key":"2085321","accessibility":0.3}
-17/04/2023 14:37:23 | {"activity":"Start a garden","type":"recreational","participants":1,"price":0.3,"link":"","key":"1934228","accessibility":0.35}
-17/04/2023 14:37:28 | {"activity":"Draw something interesting","type":"recreational","participants":1,"price":0,"link":"","key":"8033599","accessibility":0}
-17/04/2023 14:37:34 | {"activity":"Buy a new house decoration","type":"recreational","participants":1,"price":0.4,"link":"","key":"3456114","accessibility":0.3}
-17/04/2023 14:37:40 | {"activity":"Go to a local thrift shop","type":"recreational","participants":1,"price":0.1,"link":"","key":"8503795","accessibility":0.2}
-17/04/2023 14:37:46 | {"activity":"Start a blog for something you're passionate about","type":"recreational","participants":1,"price":0.05,"link":"","key":"8364626","accessibility":0.1}
-17/04/2023 14:37:52 | {"activity":"Go stargazing","type":"relaxation","participants":1,"price":0,"link":"","key":"8832605","accessibility":0.1}
-17/04/2023 14:37:58 | {"activity":"Learn to write with your nondominant hand","type":"recreational","participants":1,"price":0,"link":"","key":"1645485","accessibility":0.02}
-17/04/2023 14:38:04 | {"activity":"Think of a new business idea","type":"recreational","participants":1,"price":0,"link":"","key":"6808057","accessibility":0.05}
-17/04/2023 14:38:10 | {"activity":"Pot some plants and put them around your house","type":"relaxation","participants":1,"price":0.4,"link":"","key":"6613330","accessibility":0.3}
-17/04/2023 14:38:16 | {"activity":"Learn the periodic table","type":"education","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Periodic_table","key":"3621244","accessibility":0.6}
-17/04/2023 14:38:22 | {"activity":"Donate blood at a local blood center","type":"charity","participants":1,"price":0,"link":"https://www.redcross.org/give-blood","key":"6509779","accessibility":0.35}
-17/04/2023 14:38:29 | {"activity":"Make a budget","type":"busywork","participants":1,"price":0,"link":"","key":"4379552","accessibility":0.1}
-17/04/2023 14:38:34 | {"activity":"Draft your living will","type":"busywork","participants":1,"price":0,"link":"https://www.investopedia.com/terms/l/livingwill.asp","key":"2360432","accessibility":0.5}
-17/04/2023 14:38:40 | {"activity":"Learn how to iceskate or rollerskate","type":"recreational","participants":1,"price":0.1,"link":"","key":"5947957","accessibility":0.25}
-17/04/2023 14:38:46 | {"activity":"Do something you used to do as a kid","type":"relaxation","participants":1,"price":0.1,"link":"","key":"8827573","accessibility":0.8}
-17/04/2023 14:38:52 | {"activity":"Learn to write with your nondominant hand","type":"recreational","participants":1,"price":0,"link":"","key":"1645485","accessibility":0.02}
-17/04/2023 14:38:58 | {"activity":"Have a photo session with some friends","type":"social","participants":4,"price":0.05,"link":"","key":"3305912","accessibility":0.8}
-17/04/2023 14:39:04 | {"activity":"Visit a nearby museum","type":"recreational","participants":1,"price":0.2,"link":"","key":"5490351","accessibility":0.7}
-17/04/2023 14:39:10 | {"activity":"Uninstall unused apps from your devices","type":"busywork","participants":1,"price":0,"link":"","key":"2850593","accessibility":0}
-17/04/2023 14:39:16 | {"activity":"Go for a run","type":"recreational","participants":1,"price":0,"link":"","key":"6852505","accessibility":0.9}
-17/04/2023 14:39:22 | {"activity":"Take a spontaneous road trip with some friends","type":"social","participants":4,"price":0.2,"link":"","key":"2085321","accessibility":0.3}
-17/04/2023 14:39:28 | {"activity":"Back up important computer files","type":"busywork","participants":1,"price":0.2,"link":"","key":"9081214","accessibility":0.2}
-17/04/2023 14:39:35 | {"activity":"Plan a vacation you've always wanted to take","type":"relaxation","participants":1,"price":0,"link":"","key":"7265395","accessibility":0.05}
-17/04/2023 14:39:40 | {"activity":"Think of a new business idea","type":"recreational","participants":1,"price":0,"link":"","key":"6808057","accessibility":0.05}
-17/04/2023 14:39:46 | {"activity":"Volunteer at your local food bank","type":"charity","participants":1,"price":0,"link":"","key":"2055368","accessibility":0.1}
-17/04/2023 14:39:52 | {"activity":"Catch up on world news","type":"recreational","participants":1,"price":0.05,"link":"","key":"6596257","accessibility":0.07}
-17/04/2023 14:39:58 | {"activity":"Volunteer at your local food pantry","type":"charity","participants":1,"price":0,"link":"","key":"1878070","accessibility":0.1}
-17/04/2023 14:40:04 | {"activity":"Play basketball with a group of friends","type":"social","participants":5,"price":0,"link":"","key":"8683473","accessibility":0.7}
-17/04/2023 14:40:10 | {"activity":"Learn how to use an Arduino","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Arduino","key":"8264223","accessibility":0.7}
-17/04/2023 14:40:16 | {"activity":"Make a scrapbook with pictures of your favorite memories","type":"diy","participants":1,"price":0.1,"link":"","key":"5554174","accessibility":0.1}
-17/04/2023 14:40:22 | {"activity":"Learn how to make an Alexa skill","type":"education","participants":1,"price":0,"link":"https://developer.amazon.com/en-US/docs/alexa/custom-skills/steps-to-build-a-custom-skill.html","key":"1592381","accessibility":0.1}
-17/04/2023 14:40:28 | {"activity":"Prepare a dish from a foreign culture","type":"cooking","participants":1,"price":0.2,"link":"","key":"8061754","accessibility":0.3}
-17/04/2023 14:40:35 | {"activity":"Go to a concert with some friends","type":"social","participants":4,"price":0.6,"link":"","key":"4558850","accessibility":0.4}
-17/04/2023 14:40:40 | {"activity":"Have a bonfire with your close friends","type":"social","participants":4,"price":0.1,"link":"","key":"8442249","accessibility":0.1}
-17/04/2023 14:40:46 | {"activity":"Go see a movie in theaters with a few friends","type":"social","participants":4,"price":0.2,"link":"","key":"5262759","accessibility":0.3}
-17/04/2023 14:40:52 | {"activity":"Look at pictures and videos of cute animals","type":"relaxation","participants":1,"price":0,"link":"","key":"2565076","accessibility":1}
-17/04/2023 14:40:58 | {"activity":"Learn how to whistle with your fingers","type":"education","participants":1,"price":0,"link":"","key":"2790297","accessibility":0}
-17/04/2023 14:41:04 | {"activity":"Volunteer and help out at a senior center","type":"charity","participants":1,"price":0,"link":"","key":"3920096","accessibility":0.1}
-17/04/2023 14:41:10 | {"activity":"Try a food you don't like","type":"recreational","participants":1,"price":0.1,"link":"","key":"6693574","accessibility":0.05}
-17/04/2023 14:41:16 | {"activity":"Learn how to french braid hair","type":"education","participants":1,"price":0,"link":"","key":"8926492","accessibility":0.1}
-17/04/2023 14:41:22 | {"activity":"Listen to music you haven't heard in a while","type":"music","participants":1,"price":0.05,"link":"","key":"4296813","accessibility":0.9}
-17/04/2023 14:41:28 | {"activity":"Back up important computer files","type":"busywork","participants":1,"price":0.2,"link":"","key":"9081214","accessibility":0.2}
-17/04/2023 14:41:35 | {"activity":"Memorize a favorite quote or poem","type":"education","participants":1,"price":0,"link":"","key":"9008639","accessibility":0.8}
-17/04/2023 14:41:40 | {"activity":"Listen to a new music genre","type":"music","participants":1,"price":0,"link":"","key":"4708863","accessibility":0}
-17/04/2023 14:41:46 | {"activity":"Have a football scrimmage with some friends","type":"social","participants":8,"price":0,"link":"","key":"1638604","accessibility":0.2}
-17/04/2023 14:41:52 | {"activity":"Watch a movie you'd never usually watch","type":"relaxation","participants":1,"price":0.15,"link":"","key":"9212950","accessibility":0.15}
-17/04/2023 14:41:58 | {"activity":"Donate to your local food bank","type":"charity","participants":1,"price":0.5,"link":"","key":"4150284","accessibility":0.8}
-17/04/2023 14:42:04 | {"activity":"Draw and color a Mandala","type":"relaxation","participants":1,"price":0.05,"link":"https://en.wikipedia.org/wiki/Mandala","key":"4614092","accessibility":0.1}
-17/04/2023 14:42:10 | {"activity":"Resolve a problem you've been putting off","type":"busywork","participants":1,"price":0,"link":"","key":"9999999","accessibility":0}
-17/04/2023 14:42:16 | {"activity":"Pull a harmless prank on one of your friends","type":"social","participants":1,"price":0.1,"link":"","key":"1288934","accessibility":0.2}
-17/04/2023 14:42:22 | {"activity":"Learn how to make a website","type":"education","participants":1,"price":0.1,"link":"","key":"9924423","accessibility":0.3}
-17/04/2023 14:42:28 | {"activity":"Clean out your refrigerator","type":"busywork","participants":1,"price":0,"link":"","key":"9324336","accessibility":0}
-17/04/2023 14:42:34 | {"activity":"Plant a tree","type":"recreational","participants":1,"price":0.3,"link":"","key":"1942393","accessibility":0.3}
-17/04/2023 14:42:41 | {"activity":"Think of a new business idea","type":"recreational","participants":1,"price":0,"link":"","key":"6808057","accessibility":0.05}
-17/04/2023 14:42:46 | {"activity":"Learn how to beatbox","type":"recreational","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Beatboxing","key":"8731710","accessibility":1}
-17/04/2023 14:42:52 | {"activity":"Pull a harmless prank on one of your friends","type":"social","participants":1,"price":0.1,"link":"","key":"1288934","accessibility":0.2}
-17/04/2023 14:42:58 | {"activity":"Take a hike at a local park","type":"recreational","participants":1,"price":0,"link":"","key":"8724324","accessibility":0.1}
-17/04/2023 14:43:04 | {"activity":"Take a bubble bath","type":"relaxation","participants":1,"price":0.15,"link":"","key":"2581372","accessibility":0.1}
-17/04/2023 14:43:10 | {"activity":"Learn how to whistle with your fingers","type":"education","participants":1,"price":0,"link":"","key":"2790297","accessibility":0}
-17/04/2023 14:43:16 | {"activity":"Back up important computer files","type":"busywork","participants":1,"price":0.2,"link":"","key":"9081214","accessibility":0.2}
-17/04/2023 14:43:22 | {"activity":"Find a DIY to do","type":"diy","participants":1,"price":0.4,"link":"","key":"4981819","accessibility":0.3}
-17/04/2023 14:43:28 | {"activity":"Start a garden","type":"recreational","participants":1,"price":0.3,"link":"","key":"1934228","accessibility":0.35}
-17/04/2023 14:43:34 | {"activity":"Learn origami","type":"education","participants":1,"price":0.2,"link":"","key":"8394738","accessibility":0.3}
-17/04/2023 14:43:40 | {"activity":"Listen to a new music genre","type":"music","participants":1,"price":0,"link":"","key":"4708863","accessibility":0}
-17/04/2023 14:43:47 | {"activity":"Make a scrapbook with pictures of your favorite memories","type":"diy","participants":1,"price":0.1,"link":"","key":"5554174","accessibility":0.1}
-17/04/2023 14:43:52 | {"activity":"Bake pastries for you and your neighbor","type":"cooking","participants":1,"price":0.4,"link":"","key":"8125168","accessibility":0.3}
-17/04/2023 14:43:58 | {"activity":"Have a paper airplane contest with some friends","type":"social","participants":4,"price":0.02,"link":"","key":"8557562","accessibility":0.05}
-17/04/2023 14:44:04 | {"activity":"Learn and play a new card game","type":"recreational","participants":1,"price":0,"link":"https://www.pagat.com","key":"9660022","accessibility":0}
-17/04/2023 14:44:11 | {"activity":"Go see a Broadway production","type":"recreational","participants":4,"price":0.8,"link":"","key":"4448913","accessibility":0.3}
-17/04/2023 14:44:16 | {"activity":"Shop at support your local farmers market","type":"relaxation","participants":1,"price":0.2,"link":"","key":"8979931","accessibility":0.1}
-17/04/2023 14:44:22 | {"activity":"Organize a cluttered drawer","type":"busywork","participants":1,"price":0,"link":"","key":"9714586","accessibility":0}
-17/04/2023 14:44:28 | {"activity":"Go to a concert with local artists with some friends","type":"social","participants":3,"price":0.4,"link":"","key":"2211716","accessibility":0.3}
-17/04/2023 14:44:34 | {"activity":"Play a game of Monopoly","type":"social","participants":4,"price":0.2,"link":"","key":"1408058","accessibility":0.3}
-17/04/2023 14:44:40 | {"activity":"Pull a harmless prank on one of your friends","type":"social","participants":1,"price":0.1,"link":"","key":"1288934","accessibility":0.2}
-17/04/2023 14:44:47 | {"activity":"Make a scrapbook with pictures of your favorite memories","type":"diy","participants":1,"price":0.1,"link":"","key":"5554174","accessibility":0.1}
-17/04/2023 14:44:52 | {"activity":"Draft your living will","type":"busywork","participants":1,"price":0,"link":"https://www.investopedia.com/terms/l/livingwill.asp","key":"2360432","accessibility":0.5}
-17/04/2023 14:44:58 | {"activity":"Organize your pantry","type":"busywork","participants":1,"price":0,"link":"","key":"3954882","accessibility":0}
-17/04/2023 14:45:04 | {"activity":"Listen to your favorite album","type":"music","participants":1,"price":0.08,"link":"","key":"3136729","accessibility":0.2}
-17/04/2023 14:45:10 | {"activity":"Learn how to use an Arduino","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Arduino","key":"8264223","accessibility":0.7}
-17/04/2023 14:54:15 | {"activity":"Have a bonfire with your close friends","type":"social","participants":4,"price":0.1,"link":"","key":"8442249","accessibility":0.1}
-17/04/2023 14:54:21 | {"activity":"Make a scrapbook with pictures of your favorite memories","type":"diy","participants":1,"price":0.1,"link":"","key":"5554174","accessibility":0.1}
-17/04/2023 14:54:27 | {"activity":"Watch a classic movie","type":"recreational","participants":1,"price":0.1,"link":"","key":"8081693","accessibility":0.1}
-17/04/2023 14:54:33 | {"activity":"Learn calligraphy","type":"education","participants":1,"price":0.1,"link":"","key":"4565537","accessibility":0.1}
-17/04/2023 14:54:39 | {"activity":"Improve your touch typing","type":"busywork","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Touch_typing","key":"2526437","accessibility":0.8}
-17/04/2023 14:54:45 | {"activity":"Take a spontaneous road trip with some friends","type":"social","participants":4,"price":0.2,"link":"","key":"2085321","accessibility":0.3}
-17/04/2023 14:54:51 | {"activity":"Create a personal website","type":"recreational","participants":1,"price":0.1,"link":"","key":"3141417","accessibility":0.12}
-17/04/2023 14:54:57 | {"activity":"Pull a harmless prank on one of your friends","type":"social","participants":1,"price":0.1,"link":"","key":"1288934","accessibility":0.2}
-17/04/2023 14:55:03 | {"activity":"Listen to a new music genre","type":"music","participants":1,"price":0,"link":"","key":"4708863","accessibility":0}
-17/04/2023 14:55:09 | {"activity":"Write a handwritten letter to somebody","type":"social","participants":1,"price":0.1,"link":"","key":"2277801","accessibility":0.8}
-17/04/2023 14:55:15 | {"activity":"Research a topic you're interested in","type":"education","participants":1,"price":0,"link":"","key":"3561421","accessibility":0.9}
-17/04/2023 14:55:21 | {"activity":"Hold a video game tournament with some friends","type":"social","participants":4,"price":0,"link":"","key":"2300257","accessibility":0.1}
-17/04/2023 14:55:27 | {"activity":"Go to a nail salon","type":"relaxation","participants":1,"price":0.4,"link":"","key":"7526324","accessibility":0.5}
-17/04/2023 14:55:33 | {"activity":"Pick up litter around your favorite park","type":"charity","participants":1,"price":0,"link":"","key":"4894697","accessibility":0.05}
-17/04/2023 14:55:39 | {"activity":"Compliment someone","type":"social","participants":2,"price":0,"link":"","key":"9149470","accessibility":0}
-17/04/2023 14:55:45 | {"activity":"Explore a park you have never been to before","type":"recreational","participants":1,"price":0,"link":"","key":"8159356","accessibility":0}
-17/04/2023 14:55:51 | {"activity":"Bake a pie with some friends","type":"cooking","participants":3,"price":0.3,"link":"","key":"3141592","accessibility":0.3}
-17/04/2023 14:55:57 | {"activity":"Learn a new recipe","type":"cooking","participants":1,"price":0,"link":"","key":"6553978","accessibility":0.05}
-17/04/2023 14:56:03 | {"activity":"Learn Kotlin","type":"education","participants":1,"price":0,"link":"https://kotlinlang.org/","key":"3950821","accessibility":0.8}
-17/04/2023 14:56:09 | {"activity":"Make a bucket list","type":"busywork","participants":1,"price":0,"link":"","key":"2735499","accessibility":0}
-17/04/2023 14:56:15 | {"activity":"Make homemade ice cream","type":"cooking","participants":1,"price":0.2,"link":"","key":"3818400","accessibility":0.2}
-17/04/2023 14:56:21 | {"activity":"Volunteer and help out at a senior center","type":"charity","participants":1,"price":0,"link":"","key":"3920096","accessibility":0.1}
-17/04/2023 14:56:27 | {"activity":"Catch up on world news","type":"recreational","participants":1,"price":0.05,"link":"","key":"6596257","accessibility":0.07}
-17/04/2023 14:56:33 | {"activity":"Learn how to use an Arduino","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Arduino","key":"8264223","accessibility":0.7}
-17/04/2023 14:56:39 | {"activity":"Catch up on world news","type":"recreational","participants":1,"price":0.05,"link":"","key":"6596257","accessibility":0.07}
-17/04/2023 14:56:45 | {"activity":"Take a hike at a local park","type":"recreational","participants":1,"price":0,"link":"","key":"8724324","accessibility":0.1}
-17/04/2023 14:56:51 | {"activity":"Start a family tree","type":"social","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Family_tree","key":"6825484","accessibility":1}
-17/04/2023 14:56:57 | {"activity":"Clean out your refrigerator","type":"busywork","participants":1,"price":0,"link":"","key":"9324336","accessibility":0}
-17/04/2023 14:57:03 | {"activity":"Think of a new business idea","type":"recreational","participants":1,"price":0,"link":"","key":"6808057","accessibility":0.05}
-17/04/2023 14:57:09 | {"activity":"Create a compost pile","type":"diy","participants":1,"price":0,"link":"","key":"8631548","accessibility":0.15}
-17/04/2023 14:57:15 | {"activity":"Buy a new house decoration","type":"recreational","participants":1,"price":0.4,"link":"","key":"3456114","accessibility":0.3}
-17/04/2023 14:57:21 | {"activity":"Start a band","type":"music","participants":4,"price":0.3,"link":"","key":"5675880","accessibility":0.8}
-17/04/2023 14:57:27 | {"activity":"Research a topic you're interested in","type":"education","participants":1,"price":0,"link":"","key":"3561421","accessibility":0.9}
-17/04/2023 14:57:33 | {"activity":"Create a compost pile","type":"diy","participants":1,"price":0,"link":"","key":"8631548","accessibility":0.15}
-17/04/2023 14:57:39 | {"activity":"Volunteer and help out at a senior center","type":"charity","participants":1,"price":0,"link":"","key":"3920096","accessibility":0.1}
-17/04/2023 14:57:45 | {"activity":"Clean out your car","type":"busywork","participants":1,"price":0,"link":"","key":"2896176","accessibility":0.08}
-17/04/2023 14:57:51 | {"activity":"Organize your dresser","type":"busywork","participants":1,"price":0,"link":"","key":"7556665","accessibility":1}
-17/04/2023 14:57:57 | {"activity":"Have a football scrimmage with some friends","type":"social","participants":8,"price":0,"link":"","key":"1638604","accessibility":0.2}
-17/04/2023 14:58:03 | {"activity":"Bake pastries for you and your neighbor","type":"cooking","participants":1,"price":0.4,"link":"","key":"8125168","accessibility":0.3}
-17/04/2023 14:58:09 | {"activity":"Learn how to french braid hair","type":"education","participants":1,"price":0,"link":"","key":"8926492","accessibility":0.1}
-17/04/2023 14:58:15 | {"activity":"Have a football scrimmage with some friends","type":"social","participants":8,"price":0,"link":"","key":"1638604","accessibility":0.2}
-17/04/2023 14:58:21 | {"activity":"Paint the first thing you see","type":"recreational","participants":1,"price":0.25,"link":"","key":"1162360","accessibility":0.2}
-17/04/2023 14:58:27 | {"activity":"Learn Express.js","type":"education","participants":1,"price":0.1,"link":"https://expressjs.com/","key":"3943506","accessibility":0.25}
-17/04/2023 14:58:33 | {"activity":"Do something nice for someone you care about","type":"social","participants":1,"price":0,"link":"","key":"8321894","accessibility":0.1}
-17/04/2023 14:58:39 | {"activity":"Fill out a basketball bracket","type":"recreational","participants":1,"price":0,"link":"","key":"7806284","accessibility":0.1}
-17/04/2023 14:58:45 | {"activity":"Go to a music festival with some friends","type":"social","participants":4,"price":0.4,"link":"","key":"6482790","accessibility":0.2}
-17/04/2023 14:58:51 | {"activity":"Go to a concert with local artists with some friends","type":"social","participants":3,"price":0.4,"link":"","key":"2211716","accessibility":0.3}
-17/04/2023 14:58:57 | {"activity":"Volunteer at a local animal shelter","type":"charity","participants":1,"price":0.1,"link":"","key":"1382389","accessibility":0.5}
+17/04/2023 18:17:36 | {"activity":"Find a DIY to do","type":"diy","participants":1,"price":0.4,"link":"","key":"4981819","accessibility":0.3}
+17/04/2023 18:17:42 | {"activity":"Catch up with a friend over a lunch date","type":"social","participants":2,"price":0.2,"link":"","key":"5590133","accessibility":0.15}
+17/04/2023 18:17:48 | {"activity":"Go to an escape room","type":"social","participants":4,"price":0.5,"link":"","key":"5585829","accessibility":0.3}
+17/04/2023 18:17:54 | {"activity":"Teach your dog a new trick","type":"relaxation","participants":1,"price":0.05,"link":"","key":"1668223","accessibility":0.15}
+17/04/2023 18:18:00 | {"activity":"Back up important computer files","type":"busywork","participants":1,"price":0.2,"link":"","key":"9081214","accessibility":0.2}
+17/04/2023 18:18:06 | {"activity":"Do something nice for someone you care about","type":"social","participants":1,"price":0,"link":"","key":"8321894","accessibility":0.1}
+17/04/2023 18:18:12 | {"activity":"Learn Javascript","type":"education","participants":1,"price":0,"link":"","key":"3469378","accessibility":0.9}
+17/04/2023 18:18:18 | {"activity":"Learn how to use a french press","type":"recreational","participants":1,"price":0.3,"link":"https://en.wikipedia.org/wiki/French_press","key":"4522866","accessibility":0.3}
+17/04/2023 18:18:24 | {"activity":"Try a food you don't like","type":"recreational","participants":1,"price":0.1,"link":"","key":"6693574","accessibility":0.05}
+17/04/2023 18:18:30 | {"activity":"Play a game of tennis with a friend","type":"social","participants":2,"price":0.1,"link":"","key":"1093640","accessibility":0.4}
+17/04/2023 18:18:36 | {"activity":"Make a new friend","type":"social","participants":1,"price":0,"link":"","key":"1000000","accessibility":0}
+17/04/2023 18:18:42 | {"activity":"Learn how to use an Arduino","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Arduino","key":"8264223","accessibility":0.7}
+17/04/2023 18:18:48 | {"activity":"Go on a fishing trip with some friends","type":"social","participants":3,"price":0.4,"link":"","key":"3149232","accessibility":0.4}
+17/04/2023 18:18:54 | {"activity":"Watch the sunset or the sunrise","type":"recreational","participants":1,"price":0,"link":"","key":"4748214","accessibility":1}
+17/04/2023 18:19:00 | {"activity":"Learn how to play a new sport","type":"recreational","participants":1,"price":0.1,"link":"","key":"5808228","accessibility":0.2}
+17/04/2023 18:19:06 | {"activity":"Organize your movie collection","type":"busywork","participants":1,"price":0,"link":"","key":"6378359","accessibility":0}
+17/04/2023 18:19:12 | {"activity":"Go to the library and find an interesting book","type":"relaxation","participants":1,"price":0.05,"link":"","key":"8253550","accessibility":0.2}
+17/04/2023 18:19:18 | {"activity":"Back up important computer files","type":"busywork","participants":1,"price":0.2,"link":"","key":"9081214","accessibility":0.2}
+17/04/2023 18:19:24 | {"activity":"Clean out your closet and donate the clothes you've outgrown","type":"charity","participants":1,"price":0,"link":"","key":"9026787","accessibility":0.1}
+17/04/2023 18:19:30 | {"activity":"Learn to write with your nondominant hand","type":"recreational","participants":1,"price":0,"link":"","key":"1645485","accessibility":0.02}
+17/04/2023 18:19:36 | {"activity":"Patronize a local independent restaurant","type":"recreational","participants":1,"price":0.2,"link":"","key":"5319204","accessibility":0.1}
+17/04/2023 18:19:42 | {"activity":"Learn GraphQL","type":"education","participants":1,"price":0,"link":"https://graphql.org/","key":"2167064","accessibility":0.8}
+17/04/2023 18:19:48 | {"activity":"Learn how to french braid hair","type":"education","participants":1,"price":0,"link":"","key":"8926492","accessibility":0.1}
+17/04/2023 18:19:54 | {"activity":"Learn to greet someone in a new language","type":"education","participants":1,"price":0.1,"link":"","key":"4704256","accessibility":0.2}
+17/04/2023 18:20:00 | {"activity":"Take a spontaneous road trip with some friends","type":"social","participants":4,"price":0.2,"link":"","key":"2085321","accessibility":0.3}
+17/04/2023 18:20:06 | {"activity":"Make tie dye shirts","type":"diy","participants":1,"price":0.2,"link":"","key":"8092359","accessibility":0.2}
+17/04/2023 18:20:12 | {"activity":"Play a volleyball match with some friends","type":"social","participants":4,"price":0,"link":"","key":"4306710","accessibility":0.3}
+17/04/2023 18:20:18 | {"activity":"Learn how to french braid hair","type":"education","participants":1,"price":0,"link":"","key":"8926492","accessibility":0.1}
+17/04/2023 18:20:24 | {"activity":"Resolve a problem you've been putting off","type":"busywork","participants":1,"price":0,"link":"","key":"9999999","accessibility":0}
+17/04/2023 18:20:30 | {"activity":"Learn woodworking","type":"diy","participants":1,"price":0.3,"link":"","key":"9216391","accessibility":0.3}
+17/04/2023 18:20:36 | {"activity":"Learn to play a new instrument","type":"music","participants":1,"price":0.55,"link":"","key":"3192099","accessibility":0.6}
+17/04/2023 18:20:42 | {"activity":"Learn to play a new instrument","type":"music","participants":1,"price":0.55,"link":"","key":"3192099","accessibility":0.6}
+17/04/2023 18:20:48 | {"activity":"Pick up litter around your favorite park","type":"charity","participants":1,"price":0,"link":"","key":"4894697","accessibility":0.05}
+17/04/2023 18:20:54 | {"activity":"Organize your music collection","type":"busywork","participants":1,"price":0,"link":"","key":"3151646","accessibility":0}
+17/04/2023 18:21:00 | {"activity":"Meditate for five minutes","type":"relaxation","participants":1,"price":0,"link":"","key":"3699502","accessibility":0.05}
+17/04/2023 18:21:06 | {"activity":"Learn and play a new card game","type":"recreational","participants":1,"price":0,"link":"https://www.pagat.com","key":"9660022","accessibility":0}
+17/04/2023 18:21:12 | {"activity":"Learn woodworking","type":"diy","participants":1,"price":0.3,"link":"","key":"9216391","accessibility":0.3}
+17/04/2023 18:21:18 | {"activity":"Watch a Khan Academy lecture on a subject of your choosing","type":"education","participants":1,"price":0,"link":"https://www.khanacademy.org/","key":"7154873","accessibility":0}
+17/04/2023 18:21:24 | {"activity":"Start a family tree","type":"social","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Family_tree","key":"6825484","accessibility":1}
+17/04/2023 18:21:30 | {"activity":"Learn Morse code","type":"education","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Morse_code","key":"3646173","accessibility":0}
+17/04/2023 18:21:36 | {"activity":"Look at your finances and find one way to save money","type":"busywork","participants":1,"price":0,"link":"","key":"5977626","accessibility":1}
+17/04/2023 18:21:42 | {"activity":"Learn about the Golden Ratio","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Golden_ratio","key":"2095681","accessibility":0.2}
+17/04/2023 18:21:48 | {"activity":"Buy a new house decoration","type":"recreational","participants":1,"price":0.4,"link":"","key":"3456114","accessibility":0.3}
+17/04/2023 18:21:54 | {"activity":"Go for a walk","type":"relaxation","participants":1,"price":0,"link":"","key":"4286250","accessibility":0.1}
+17/04/2023 18:22:00 | {"activity":"Volunteer at your local food bank","type":"charity","participants":1,"price":0,"link":"","key":"2055368","accessibility":0.1}
+17/04/2023 18:22:06 | {"activity":"Plan a trip to another country","type":"recreational","participants":1,"price":0,"link":"","key":"5554727","accessibility":0}
+17/04/2023 18:22:12 | {"activity":"Bake something you've never tried before","type":"cooking","participants":1,"price":0.4,"link":"","key":"5665663","accessibility":0.3}
+17/04/2023 18:22:18 | {"activity":"Play a game of Monopoly","type":"social","participants":4,"price":0.2,"link":"","key":"1408058","accessibility":0.3}
+17/04/2023 18:22:24 | {"activity":"Donate blood at a local blood center","type":"charity","participants":1,"price":0,"link":"https://www.redcross.org/give-blood","key":"6509779","accessibility":0.35}
+17/04/2023 18:22:30 | {"activity":"Write a note of appreciation to someone","type":"social","participants":1,"price":0,"link":"","key":"1770521","accessibility":0}
+17/04/2023 18:22:36 | {"activity":"Draft your living will","type":"busywork","participants":1,"price":0,"link":"https://www.investopedia.com/terms/l/livingwill.asp","key":"2360432","accessibility":0.5}
+17/04/2023 18:22:42 | {"activity":"Learn to play a new instrument","type":"music","participants":1,"price":0.55,"link":"","key":"3192099","accessibility":0.6}
+17/04/2023 18:22:48 | {"activity":"Take a nap","type":"relaxation","participants":1,"price":0,"link":"","key":"6184514","accessibility":0}
+17/04/2023 18:22:54 | {"activity":"Make a bucket list","type":"busywork","participants":1,"price":0,"link":"","key":"2735499","accessibility":0}
+17/04/2023 18:23:00 | {"activity":"Create a meal plan for the coming week","type":"cooking","participants":1,"price":0,"link":"","key":"3491470","accessibility":0}
+17/04/2023 18:23:06 | {"activity":"Learn to play a new instrument","type":"music","participants":1,"price":0.55,"link":"","key":"3192099","accessibility":0.6}
+17/04/2023 18:23:12 | {"activity":"Take your dog on a walk","type":"relaxation","participants":1,"price":0,"link":"","key":"9318514","accessibility":0.2}
+17/04/2023 18:23:18 | {"activity":"Learn about the Golden Ratio","type":"education","participants":1,"price":0.1,"link":"https://en.wikipedia.org/wiki/Golden_ratio","key":"2095681","accessibility":0.2}
+17/04/2023 18:23:24 | {"activity":"Learn how to use a french press","type":"recreational","participants":1,"price":0.3,"link":"https://en.wikipedia.org/wiki/French_press","key":"4522866","accessibility":0.3}
+17/04/2023 18:23:30 | {"activity":"Start a collection","type":"recreational","participants":1,"price":0,"link":"","key":"1718657","accessibility":0.5}
+17/04/2023 18:23:36 | {"activity":"Find a DIY to do","type":"diy","participants":1,"price":0.4,"link":"","key":"4981819","accessibility":0.3}
+17/04/2023 18:23:42 | {"activity":"Do something nice for someone you care about","type":"social","participants":1,"price":0,"link":"","key":"8321894","accessibility":0.1}
+17/04/2023 18:23:48 | {"activity":"Draw something interesting","type":"recreational","participants":1,"price":0,"link":"","key":"8033599","accessibility":0}
+17/04/2023 18:23:54 | {"activity":"Visit a nearby museum","type":"recreational","participants":1,"price":0.2,"link":"","key":"5490351","accessibility":0.7}
+17/04/2023 18:24:00 | {"activity":"Study a foreign language","type":"education","participants":1,"price":0,"link":"","key":"9765530","accessibility":0.1}
+17/04/2023 18:24:06 | {"activity":"Buy a new house decoration","type":"recreational","participants":1,"price":0.4,"link":"","key":"3456114","accessibility":0.3}
+17/04/2023 18:24:12 | {"activity":"Prepare a 72-hour kit","type":"busywork","participants":1,"price":0.5,"link":"https://www.ready.gov/kit","key":"4266522","accessibility":0.5}
+17/04/2023 18:24:18 | {"activity":"Contribute code or a monetary donation to an open-source software project","type":"charity","participants":1,"price":0.1,"link":"https://github.com/explore","key":"7687030","accessibility":0}
+17/04/2023 18:24:24 | {"activity":"Start a garden","type":"recreational","participants":1,"price":0.3,"link":"","key":"1934228","accessibility":0.35}
+17/04/2023 18:24:30 | {"activity":"Write a short story","type":"recreational","participants":1,"price":0,"link":"","key":"6301585","accessibility":0.1}
+17/04/2023 18:24:36 | {"activity":"Listen to music you haven't heard in a while","type":"music","participants":1,"price":0.05,"link":"","key":"4296813","accessibility":0.9}
+17/04/2023 18:24:42 | {"activity":"Learn GraphQL","type":"education","participants":1,"price":0,"link":"https://graphql.org/","key":"2167064","accessibility":0.8}
+17/04/2023 18:24:48 | {"activity":"Learn Kotlin","type":"education","participants":1,"price":0,"link":"https://kotlinlang.org/","key":"3950821","accessibility":0.8}
+17/04/2023 18:24:54 | {"activity":"Organize your music collection","type":"busywork","participants":1,"price":0,"link":"","key":"3151646","accessibility":0}
+17/04/2023 18:25:00 | {"activity":"Volunteer at your local food pantry","type":"charity","participants":1,"price":0,"link":"","key":"1878070","accessibility":0.1}
+17/04/2023 18:25:06 | {"activity":"Make your own LEGO creation","type":"recreational","participants":1,"price":0,"link":"","key":"1129748","accessibility":0.1}
+17/04/2023 18:25:12 | {"activity":"Go to a concert with local artists with some friends","type":"social","participants":3,"price":0.4,"link":"","key":"2211716","accessibility":0.3}
+17/04/2023 18:25:18 | {"activity":"Create and follow a savings plan","type":"busywork","participants":1,"price":0,"link":"","key":"9366464","accessibility":0.2}
+17/04/2023 18:25:24 | {"activity":"Start a blog for something you're passionate about","type":"recreational","participants":1,"price":0.05,"link":"","key":"8364626","accessibility":0.1}
+17/04/2023 18:25:30 | {"activity":"Surprise your significant other with something considerate","type":"social","participants":1,"price":0,"link":"","key":"6204657","accessibility":0}
+17/04/2023 18:25:36 | {"activity":"Clean out your car","type":"busywork","participants":1,"price":0,"link":"","key":"2896176","accessibility":0.08}
+17/04/2023 18:25:42 | {"activity":"Create and follow a savings plan","type":"busywork","participants":1,"price":0,"link":"","key":"9366464","accessibility":0.2}
+17/04/2023 18:25:48 | {"activity":"Go to an escape room","type":"social","participants":4,"price":0.5,"link":"","key":"5585829","accessibility":0.3}
+17/04/2023 18:25:54 | {"activity":"Bake something you've never tried before","type":"cooking","participants":1,"price":0.4,"link":"","key":"5665663","accessibility":0.3}
+17/04/2023 18:26:00 | {"activity":"Watch a Khan Academy lecture on a subject of your choosing","type":"education","participants":1,"price":0,"link":"https://www.khanacademy.org/","key":"7154873","accessibility":0}
+17/04/2023 18:26:06 | {"activity":"Write a handwritten letter to somebody","type":"social","participants":1,"price":0.1,"link":"","key":"2277801","accessibility":0.8}
+17/04/2023 18:26:12 | {"activity":"Learn about a distributed version control system such as Git","type":"education","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Distributed_version_control","key":"9303608","accessibility":0}
+17/04/2023 18:26:18 | {"activity":"Fix something that's broken in your house","type":"diy","participants":1,"price":0.1,"link":"","key":"6925988","accessibility":0.3}
+17/04/2023 18:26:24 | {"activity":"Create or update your resume","type":"busywork","participants":1,"price":0,"link":"","key":"9364041","accessibility":0.1}
+17/04/2023 18:26:30 | {"activity":"Make your own LEGO creation","type":"recreational","participants":1,"price":0,"link":"","key":"1129748","accessibility":0.1}
+17/04/2023 18:26:36 | {"activity":"Memorize a favorite quote or poem","type":"education","participants":1,"price":0,"link":"","key":"9008639","accessibility":0.8}
+17/04/2023 18:26:42 | {"activity":"Configure two-factor authentication on your accounts","type":"busywork","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Multi-factor_authentication","key":"1572120","accessibility":0}
+17/04/2023 18:26:48 | {"activity":"Take a hike at a local park","type":"recreational","participants":1,"price":0,"link":"","key":"8724324","accessibility":0.1}
+17/04/2023 18:26:54 | {"activity":"Write a handwritten letter to somebody","type":"social","participants":1,"price":0.1,"link":"","key":"2277801","accessibility":0.8}
+17/04/2023 18:27:00 | {"activity":"Learn a new recipe","type":"cooking","participants":1,"price":0,"link":"","key":"6553978","accessibility":0.05}
+17/04/2023 18:27:06 | {"activity":"Buy a new house decoration","type":"recreational","participants":1,"price":0.4,"link":"","key":"3456114","accessibility":0.3}
+17/04/2023 18:27:12 | {"activity":"Learn how to make a website","type":"education","participants":1,"price":0.1,"link":"","key":"9924423","accessibility":0.3}
+17/04/2023 18:27:18 | {"activity":"Learn the NATO phonetic alphabet","type":"education","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/NATO_phonetic_alphabet","key":"6706598","accessibility":0}
+17/04/2023 18:27:24 | {"activity":"Memorize the fifty states and their capitals","type":"education","participants":1,"price":0,"link":"","key":"4179309","accessibility":0}
+17/04/2023 18:27:30 | {"activity":"Start a family tree","type":"social","participants":1,"price":0,"link":"https://en.wikipedia.org/wiki/Family_tree","key":"6825484","accessibility":1}

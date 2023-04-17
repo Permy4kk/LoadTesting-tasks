@@ -1,0 +1,204 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1681744654888,949,UC_00_BoredAPI_Open,200,OK,setUp Thread Group 1-1,text,true,,1027,512,1,1,https://www.boredapi.com/,949,0,805
+1681744654811,949,Open,200,"Number of samples in transaction : 1, number of failing samples : 0",setUp Thread Group 1-1,,true,,1027,512,1,1,null,949,83,805
+1681744655882,452,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,474,450,1,1,https://www.boredapi.com/api/activity/,452,0,305
+1681744655881,452,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,474,450,1,1,null,452,590,305
+1681744661883,148,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,502,450,1,1,https://www.boredapi.com/api/activity/,148,0,0
+1681744656923,148,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,502,450,1,1,null,148,4962,0
+1681744667882,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,481,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744662033,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,481,450,1,1,null,154,5854,0
+1681744673894,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744668041,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,153,5857,0
+1681744679894,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,495,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744674052,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,495,450,1,1,null,153,5849,0
+1681744685882,148,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,503,450,1,1,https://www.boredapi.com/api/activity/,148,0,0
+1681744680054,148,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,503,450,1,1,null,148,5832,0
+1681744691881,146,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,478,450,1,1,https://www.boredapi.com/api/activity/,146,0,0
+1681744686035,146,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,478,450,1,1,null,146,5849,0
+1681744697882,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,540,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744692030,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,540,450,1,1,null,154,5854,0
+1681744703882,143,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,143,0,0
+1681744698038,143,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,143,5845,0
+1681744709883,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,496,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744704026,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,496,450,1,1,null,153,5862,0
+1681744715895,478,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,474,450,1,1,https://www.boredapi.com/api/activity/,478,0,336
+1681744710041,478,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,474,450,1,1,null,478,5857,336
+1681744721882,148,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,528,450,1,1,https://www.boredapi.com/api/activity/,148,0,0
+1681744716376,148,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,528,450,1,1,null,148,5508,0
+1681744727896,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,499,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744722031,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,499,450,1,1,null,153,5865,0
+1681744733882,143,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,494,450,1,1,https://www.boredapi.com/api/activity/,143,0,0
+1681744728050,143,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,494,450,1,1,null,143,5836,0
+1681744739896,152,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,496,450,1,1,https://www.boredapi.com/api/activity/,152,0,0
+1681744734029,152,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,496,450,1,1,null,152,5870,0
+1681744745887,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,489,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744740050,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,489,450,1,1,null,154,5841,0
+1681744751883,147,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,512,450,1,1,https://www.boredapi.com/api/activity/,147,0,0
+1681744746047,147,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,512,450,1,1,null,147,5839,0
+1681744757882,149,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,495,450,1,1,https://www.boredapi.com/api/activity/,149,0,0
+1681744752033,149,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,495,450,1,1,null,149,5852,0
+1681744763882,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,520,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744758034,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,520,450,1,1,null,153,5849,0
+1681744769883,147,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,507,450,1,1,https://www.boredapi.com/api/activity/,147,0,0
+1681744764036,147,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,507,450,1,1,null,147,5855,0
+1681744775882,165,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,507,450,1,1,https://www.boredapi.com/api/activity/,165,0,0
+1681744770037,165,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,507,450,1,1,null,165,5846,0
+1681744781881,495,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,495,450,1,1,https://www.boredapi.com/api/activity/,494,0,351
+1681744776049,495,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,495,450,1,1,null,494,5834,351
+1681744787881,149,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,492,450,1,1,https://www.boredapi.com/api/activity/,149,0,0
+1681744782377,149,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,492,450,1,1,null,149,5505,0
+1681744793882,156,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,504,450,1,1,https://www.boredapi.com/api/activity/,156,0,0
+1681744788031,156,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,504,450,1,1,null,156,5854,0
+1681744799895,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,507,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744794042,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,507,450,1,1,null,153,5860,0
+1681744805880,142,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,477,450,1,1,https://www.boredapi.com/api/activity/,142,0,0
+1681744800056,142,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,477,450,1,1,null,142,5826,0
+1681744811882,156,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,500,450,1,1,https://www.boredapi.com/api/activity/,156,0,0
+1681744806023,156,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,500,450,1,1,null,156,5860,0
+1681744817880,148,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,492,450,1,1,https://www.boredapi.com/api/activity/,148,0,0
+1681744812039,148,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,492,450,1,1,null,148,5842,0
+1681744823890,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,500,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744818029,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,500,450,1,1,null,154,5861,0
+1681744829886,151,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,475,450,1,1,https://www.boredapi.com/api/activity/,151,0,0
+1681744824045,151,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,475,450,1,1,null,151,5844,0
+1681744835885,159,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,491,450,1,1,https://www.boredapi.com/api/activity/,159,0,0
+1681744830039,159,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,491,450,1,1,null,159,5847,0
+1681744841890,476,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,491,450,1,1,https://www.boredapi.com/api/activity/,476,0,333
+1681744836046,476,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,491,450,1,1,null,476,5846,333
+1681744847887,152,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,501,450,1,1,https://www.boredapi.com/api/activity/,152,0,0
+1681744842368,152,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,501,450,1,1,null,152,5519,0
+1681744853887,149,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,489,450,1,1,https://www.boredapi.com/api/activity/,149,0,0
+1681744848040,149,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,489,450,1,1,null,149,5848,0
+1681744859883,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,489,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744854037,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,489,450,1,1,null,153,5849,0
+1681744865881,151,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,514,450,1,1,https://www.boredapi.com/api/activity/,151,0,0
+1681744860039,151,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,514,450,1,1,null,151,5843,0
+1681744871892,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,475,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681744866033,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,475,450,1,1,null,155,5860,0
+1681744877888,149,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,546,450,1,1,https://www.boredapi.com/api/activity/,149,0,0
+1681744872048,149,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,546,450,1,1,null,149,5842,0
+1681744883895,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,517,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744878038,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,517,450,1,1,null,154,5858,0
+1681744889885,151,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,516,450,1,1,https://www.boredapi.com/api/activity/,151,0,0
+1681744884051,151,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,516,450,1,1,null,151,5836,0
+1681744895890,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,511,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744890038,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,511,450,1,1,null,154,5854,0
+1681744901882,152,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,534,450,1,1,https://www.boredapi.com/api/activity/,152,0,0
+1681744896045,152,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,534,450,1,1,null,152,5838,0
+1681744907889,458,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,458,0,318
+1681744902035,458,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,458,5855,318
+1681744913896,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,476,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681744908349,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,476,450,1,1,null,155,5548,0
+1681744919885,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744914052,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,153,5835,0
+1681744925884,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744920040,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,154,5845,0
+1681744931883,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,502,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744926039,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,502,450,1,1,null,153,5844,0
+1681744937889,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,484,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744932037,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,484,450,1,1,null,153,5854,0
+1681744943891,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,532,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744938043,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,532,450,1,1,null,153,5848,0
+1681744949888,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,496,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744944045,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,496,450,1,1,null,153,5845,0
+1681744955890,159,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,534,450,1,1,https://www.boredapi.com/api/activity/,159,0,0
+1681744950043,159,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,534,450,1,1,null,159,5848,0
+1681744961882,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,491,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744956050,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,491,450,1,1,null,154,5833,0
+1681744967889,480,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,471,450,1,1,https://www.boredapi.com/api/activity/,480,0,332
+1681744962037,480,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,471,450,1,1,null,480,5853,332
+1681744973889,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,477,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681744968370,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,477,450,1,1,null,153,5519,0
+1681744979883,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,496,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681744974043,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,496,450,1,1,null,155,5843,0
+1681744985883,156,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,491,450,1,1,https://www.boredapi.com/api/activity/,156,0,0
+1681744980040,156,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,491,450,1,1,null,156,5844,0
+1681744991889,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,486,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744986040,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,486,450,1,1,null,154,5849,0
+1681744997881,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,534,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681744992044,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,534,450,1,1,null,154,5839,0
+1681745003883,189,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,540,450,1,1,https://www.boredapi.com/api/activity/,189,0,0
+1681744998036,189,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,540,450,1,1,null,189,5850,0
+1681745009893,159,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,483,450,1,1,https://www.boredapi.com/api/activity/,159,0,0
+1681745004076,159,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,483,450,1,1,null,159,5818,0
+1681745015896,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,474,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681745010054,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,474,450,1,1,null,155,5843,0
+1681745021894,158,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,503,450,1,1,https://www.boredapi.com/api/activity/,158,0,0
+1681745016052,158,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,503,450,1,1,null,158,5843,0
+1681745027882,147,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,489,450,1,1,https://www.boredapi.com/api/activity/,147,0,0
+1681745022053,147,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,489,450,1,1,null,147,5830,0
+1681745033896,510,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,488,450,1,1,https://www.boredapi.com/api/activity/,510,0,346
+1681745028031,510,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,488,450,1,1,null,510,5867,346
+1681745039895,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,486,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681745034407,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,486,450,1,1,null,153,5490,0
+1681745045892,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681745040051,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,153,5845,0
+1681745051893,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,509,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681745046048,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,509,450,1,1,null,154,5848,0
+1681745057883,158,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,559,450,1,1,https://www.boredapi.com/api/activity/,158,0,0
+1681745052051,158,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,559,450,1,1,null,158,5835,0
+1681745063883,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,482,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681745058045,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,482,450,1,1,null,155,5840,0
+1681745069886,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,484,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681745064041,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,484,450,1,1,null,154,5850,0
+1681745075887,167,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,505,450,1,1,https://www.boredapi.com/api/activity/,167,0,0
+1681745070045,167,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,505,450,1,1,null,167,5846,0
+1681745081888,152,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,495,450,1,1,https://www.boredapi.com/api/activity/,152,0,0
+1681745076058,152,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,495,450,1,1,null,152,5831,0
+1681745087886,152,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,497,450,1,1,https://www.boredapi.com/api/activity/,152,0,0
+1681745082041,152,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,497,450,1,1,null,152,5847,0
+1681745093892,152,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,489,450,1,1,https://www.boredapi.com/api/activity/,152,0,0
+1681745088040,152,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,489,450,1,1,null,152,5852,0
+1681745099880,464,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,495,450,1,1,https://www.boredapi.com/api/activity/,464,0,318
+1681745094046,464,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,495,450,1,1,null,464,5837,318
+1681745105881,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,492,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681745100346,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,492,450,1,1,null,154,5536,0
+1681745111881,151,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,513,450,1,1,https://www.boredapi.com/api/activity/,151,0,0
+1681745106036,151,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,513,450,1,1,null,151,5845,0
+1681745117883,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,152,0,0
+1681745112034,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,152,5849,0
+1681745123882,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,518,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681745118036,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,518,450,1,1,null,155,5847,0
+1681745129890,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,515,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681745124038,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,515,450,1,1,null,155,5854,0
+1681745135888,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,480,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681745130047,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,480,450,1,1,null,155,5842,0
+1681745141892,158,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,158,0,0
+1681745136044,158,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,158,5849,0
+1681745147884,157,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,481,450,1,1,https://www.boredapi.com/api/activity/,157,0,0
+1681745142051,157,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,481,450,1,1,null,157,5834,0
+1681745153887,156,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,502,450,1,1,https://www.boredapi.com/api/activity/,156,0,0
+1681745148042,156,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,502,450,1,1,null,156,5847,0
+1681745159889,458,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,546,450,1,1,https://www.boredapi.com/api/activity/,458,0,316
+1681745154044,458,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,546,450,1,1,null,458,5846,316
+1681745165891,156,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,499,450,1,1,https://www.boredapi.com/api/activity/,156,0,0
+1681745160349,156,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,499,450,1,1,null,156,5543,0
+1681745171887,154,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,577,450,1,1,https://www.boredapi.com/api/activity/,154,0,0
+1681745166048,154,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,577,450,1,1,null,154,5841,0
+1681745177894,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,499,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681745172042,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,499,450,1,1,null,153,5853,0
+1681745183881,161,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,489,450,1,1,https://www.boredapi.com/api/activity/,161,0,0
+1681745178048,161,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,489,450,1,1,null,161,5834,0
+1681745189889,155,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,492,450,1,1,https://www.boredapi.com/api/activity/,155,0,0
+1681745184043,155,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,492,450,1,1,null,155,5847,0
+1681745195882,152,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,495,450,1,1,https://www.boredapi.com/api/activity/,152,0,0
+1681745190045,152,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,495,450,1,1,null,152,5837,0
+1681745201882,153,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,568,450,1,1,https://www.boredapi.com/api/activity/,153,0,0
+1681745196035,153,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,568,450,1,1,null,153,5848,0
+1681745207882,159,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,492,450,1,1,https://www.boredapi.com/api/activity/,159,0,0
+1681745202036,159,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,492,450,1,1,null,159,5847,0
+1681745213881,157,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,499,450,1,1,https://www.boredapi.com/api/activity/,157,0,0
+1681745208042,157,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,499,450,1,1,null,157,5840,0
+1681745219882,160,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,479,450,1,1,https://www.boredapi.com/api/activity/,160,0,0
+1681745214039,160,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,479,450,1,1,null,160,5845,0
+1681745225883,461,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,493,450,1,1,https://www.boredapi.com/api/activity/,461,0,323
+1681745220044,461,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,493,450,1,1,null,461,5840,323
+1681745231881,147,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,491,450,1,1,https://www.boredapi.com/api/activity/,147,0,0
+1681745226345,147,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,491,450,1,1,null,147,5537,0
+1681745237883,139,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,544,450,1,1,https://www.boredapi.com/api/activity/,139,0,0
+1681745232029,139,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,544,450,1,1,null,139,5855,0
+1681745243882,158,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,504,450,1,1,https://www.boredapi.com/api/activity/,158,0,0
+1681745238023,158,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,504,450,1,1,null,158,5860,0
+1681745249889,164,Activity_GET,200,OK,BoredAPI Thread Group 1-1,text,true,,517,450,1,1,https://www.boredapi.com/api/activity/,164,0,0
+1681745244041,164,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",BoredAPI Thread Group 1-1,,true,,517,450,1,1,null,164,5850,0
+1681745250054,0,UC_01_BoredAPI_ActivityGet,200,"Number of samples in transaction : 1, number of failing samples : 0",,,true,,0,0,0,0,null,0,0,0
