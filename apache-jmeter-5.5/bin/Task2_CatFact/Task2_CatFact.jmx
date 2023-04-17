@@ -336,8 +336,7 @@
             <stringProp name="cacheKey">true</stringProp>
             <stringProp name="filename"></stringProp>
             <stringProp name="parameters">${cat_breed};${cat_country};${cat_fact}</stringProp>
-            <stringProp name="script">prev.setIgnore();
-import org.apache.jmeter.services.FileServer;
+            <stringProp name="script">import org.apache.jmeter.services.FileServer;
 
 String filename = &quot;\\Logs\\Task2_&quot; + new Date().format(&quot;dd.MM.yyyy&quot;) + &quot;.txt&quot;;
 FileWriter writer = null;

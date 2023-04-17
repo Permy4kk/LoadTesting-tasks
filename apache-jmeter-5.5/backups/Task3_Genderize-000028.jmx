@@ -161,6 +161,38 @@
               <stringProp name="variableNames">name1,name2,name3</stringProp>
             </CSVDataSet>
             <hashTree/>
+            <JSR223PostProcessor guiclass="TestBeanGUI" testclass="JSR223PostProcessor" testname="JSR223 PostProcessor" enabled="true">
+              <stringProp name="cacheKey">true</stringProp>
+              <stringProp name="filename"></stringProp>
+              <stringProp name="parameters"></stringProp>
+              <stringProp name="script">String filename = &quot;\\Logs\\Genderize_&quot; + new Date().format(&quot;dd.MM.yyyy&quot;) + &quot;.txt&quot;;
+FileWriter writer = null;
+
+try {
+	log.info(prev.getResponseDataAsString());
+	writer = new FileWriter(FileServer.getFileServer().getBaseDir() + filename, true);
+	writer.write(new Date().format(&quot;dd/MM/yyyy HH:mm:ss&quot;) + &quot; | &quot; + prev.getResponseDataAsString() + &quot;\n&quot;);
+}
+catch (IOException ex) {
+	log.info(ex.getMessage());
+} finally {
+	try {
+		writer.flush();
+		writer.close();
+	} catch (IOException ignore) {}
+}</stringProp>
+              <stringProp name="scriptLanguage">groovy</stringProp>
+            </JSR223PostProcessor>
+            <hashTree/>
+            <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="Regular Expression Extractor" enabled="true">
+              <stringProp name="RegexExtractor.useHeaders">false</stringProp>
+              <stringProp name="RegexExtractor.refname">gender_value</stringProp>
+              <stringProp name="RegexExtractor.regex">.*?gender&quot;\s?:\s?&quot;([\w\s]+)</stringProp>
+              <stringProp name="RegexExtractor.template">$1$</stringProp>
+              <stringProp name="RegexExtractor.default">NOT FOUND</stringProp>
+              <stringProp name="RegexExtractor.match_number">3</stringProp>
+            </RegexExtractor>
+            <hashTree/>
           </hashTree>
         </hashTree>
       </hashTree>

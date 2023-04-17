@@ -50,7 +50,7 @@
         <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
           <boolProp name="LoopController.continue_forever">false</boolProp>
-          <stringProp name="LoopController.loops">1</stringProp>
+          <stringProp name="LoopController.loops">2</stringProp>
         </elementProp>
         <stringProp name="ThreadGroup.num_threads">1</stringProp>
         <stringProp name="ThreadGroup.ramp_time">1</stringProp>
@@ -161,7 +161,38 @@
               <stringProp name="variableNames">name1,name2,name3</stringProp>
             </CSVDataSet>
             <hashTree/>
+            <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="Regular Expression Extractor" enabled="true">
+              <stringProp name="RegexExtractor.useHeaders">false</stringProp>
+              <stringProp name="RegexExtractor.refname">gender_value</stringProp>
+              <stringProp name="RegexExtractor.regex">.*?gender&quot;\s?:\s?&quot;([\w\s]+)</stringProp>
+              <stringProp name="RegexExtractor.template">$1$</stringProp>
+              <stringProp name="RegexExtractor.default">NOT FOUND</stringProp>
+              <stringProp name="RegexExtractor.match_number">3</stringProp>
+            </RegexExtractor>
+            <hashTree/>
           </hashTree>
+          <JSR223PostProcessor guiclass="TestBeanGUI" testclass="JSR223PostProcessor" testname="JSR223 PostProcessor" enabled="true">
+            <stringProp name="cacheKey">true</stringProp>
+            <stringProp name="filename"></stringProp>
+            <stringProp name="parameters"></stringProp>
+            <stringProp name="script">String filename = &quot;\\Logs\\Genderize_&quot; + new Date().format(&quot;dd.MM.yyyy&quot;) + &quot;.txt&quot;;
+FileWriter writer = null;
+
+try {
+	writer = new FileWriter(FileServer.getFileServer().getBaseDir() + filename, true);
+	writer.write(new Date().format(&amp;quot;dd/MM/yyyy HH:mm:ss&amp;quot;) + &amp;quot; | &amp;quot; + prev.getResponseDataAsString() + &quot;\n&quot;);
+}
+catch (IOException ex) {
+	log.info(ex.getMessage());
+} finally {
+	try {
+		writer.flush();
+		writer.close();
+	} catch (IOException ignore) {}
+}</stringProp>
+            <stringProp name="scriptLanguage">groovy</stringProp>
+          </JSR223PostProcessor>
+          <hashTree/>
         </hashTree>
       </hashTree>
       <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
