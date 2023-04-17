@@ -1,0 +1,452 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1681755028329,969,Open_CatFact,200,OK,setUp Thread Group 1-1,text,true,,1306,506,1,1,https://catfact.ninja/,969,0,804
+1681755028275,969,UC_00_Open,200,"Number of samples in transaction : 1, number of failing samples : 0",setUp Thread Group 1-1,,true,,1306,506,1,1,null,969,56,804
+1681755029341,461,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,452,1,1,https://catfact.ninja/breeds?limit=100,461,0,288
+1681755035344,136,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1378,1178,2,2,https://catfact.ninja/fact?max_length=83,135,0,0
+1681755035349,416,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,452,2,2,https://catfact.ninja/breeds?limit=100,416,0,268
+1681755041351,134,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1382,1178,3,3,https://catfact.ninja/fact?max_length=57,134,0,0
+1681755041352,401,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,452,3,3,https://catfact.ninja/breeds?limit=100,401,0,255
+1681755029341,597,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4683,1630,2,2,null,596,12031,288
+1681755035348,550,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4687,1630,3,3,null,550,11455,268
+1681755047350,136,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1390,1178,2,2,https://catfact.ninja/fact?max_length=70,136,0,0
+1681755047347,382,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,382,0,246
+1681755041351,537,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4695,1630,2,2,null,537,11475,255
+1681755053344,132,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1372,1178,2,2,https://catfact.ninja/fact?max_length=75,132,0,0
+1681755053349,404,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,404,0,265
+1681755047343,514,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4677,2354,2,2,null,514,11488,246
+1681755059347,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1415,1178,2,2,https://catfact.ninja/fact?max_length=93,135,0,0
+1681755059351,406,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,406,0,251
+1681755053337,539,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4720,2354,2,2,null,539,11477,265
+1681755065351,134,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1379,1178,2,2,https://catfact.ninja/fact?max_length=60,134,0,0
+1681755065346,402,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,401,0,258
+1681755059337,540,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4684,2354,2,2,null,540,11476,251
+1681755071344,130,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1384,1178,2,2,https://catfact.ninja/fact?max_length=55,130,0,0
+1681755071350,390,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,390,0,247
+1681755065338,532,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4689,2354,2,2,null,531,11481,258
+1681755077349,132,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1416,1179,2,2,https://catfact.ninja/fact?max_length=100,132,0,0
+1681755077352,407,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,407,0,254
+1681755071338,522,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4721,2355,2,2,null,522,11489,247
+1681755083351,132,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1403,1179,2,2,https://catfact.ninja/fact?max_length=100,132,0,0
+1681755083344,400,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,400,0,255
+1681755077338,539,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4708,2355,2,2,null,539,11478,254
+1681755089344,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1393,1178,2,2,https://catfact.ninja/fact?max_length=71,135,0,0
+1681755089349,396,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,395,0,255
+1681755083338,535,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4698,2354,2,2,null,535,11476,255
+1681755095348,162,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1395,1178,2,2,https://catfact.ninja/fact?max_length=71,161,0,0
+1681755095352,435,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,435,0,270
+1681755089338,558,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4700,2354,2,2,null,556,11457,255
+1681755101351,132,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1395,1178,2,2,https://catfact.ninja/fact?max_length=68,132,0,0
+1681755101344,397,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,396,0,253
+1681755095337,567,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4700,2354,2,2,null,567,11450,270
+1681755107345,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1416,1178,2,2,https://catfact.ninja/fact?max_length=95,135,0,0
+1681755107349,399,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,398,0,261
+1681755101337,532,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4721,2354,2,2,null,531,11482,253
+1681755113348,139,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1381,1178,2,2,https://catfact.ninja/fact?max_length=51,139,0,0
+1681755113352,404,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,404,0,264
+1681755107337,538,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4686,2354,2,2,null,537,11473,261
+1681755119352,133,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1374,1178,2,2,https://catfact.ninja/fact?max_length=73,133,0,0
+1681755119344,407,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,407,0,252
+1681755113337,537,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4679,2354,2,2,null,537,11482,264
+1681755125344,153,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1406,1178,2,2,https://catfact.ninja/fact?max_length=79,153,0,0
+1681755125350,456,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,456,0,277
+1681755119337,560,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4711,2354,2,2,null,560,11454,252
+1681755131348,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1395,1178,2,2,https://catfact.ninja/fact?max_length=75,135,0,0
+1681755131352,408,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,408,0,260
+1681755125338,591,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4700,2354,2,2,null,591,11424,277
+1681755137351,139,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1380,1178,2,2,https://catfact.ninja/fact?max_length=52,139,0,0
+1681755137345,414,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,413,0,250
+1681755131338,547,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4685,2354,2,2,null,547,11482,260
+1681755143346,134,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1398,1178,2,2,https://catfact.ninja/fact?max_length=92,134,0,0
+1681755143351,419,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,419,0,259
+1681755137337,548,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4703,2354,2,2,null,547,11461,250
+1681755149348,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1386,1178,2,2,https://catfact.ninja/fact?max_length=87,135,0,0
+1681755149352,409,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,409,0,256
+1681755143337,554,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4691,2354,2,2,null,554,11460,259
+1681755155351,137,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1414,1178,2,2,https://catfact.ninja/fact?max_length=98,137,0,0
+1681755155346,407,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,406,0,263
+1681755149338,546,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4719,2354,2,2,null,546,11470,256
+1681755161345,136,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1406,1178,2,2,https://catfact.ninja/fact?max_length=94,136,0,0
+1681755161348,395,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,395,0,255
+1681755155338,543,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4711,2354,2,2,null,542,11467,263
+1681755167349,456,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1406,1178,2,2,https://catfact.ninja/fact?max_length=82,456,0,0
+1681755167353,1658,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,1657,0,1310
+1681755161339,851,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4711,2354,2,2,null,851,11160,255
+1681755173351,126,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1381,1178,2,2,https://catfact.ninja/fact?max_length=92,126,0,0
+1681755173345,409,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,409,0,251
+1681755167338,1784,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4686,2354,2,2,null,1783,10231,1310
+1681755179343,137,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1398,1178,2,2,https://catfact.ninja/fact?max_length=84,137,0,0
+1681755179347,388,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,388,0,248
+1681755173337,546,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4703,2354,2,2,null,546,11464,251
+1681755185347,131,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1412,1178,2,2,https://catfact.ninja/fact?max_length=88,131,0,0
+1681755185351,416,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,416,0,259
+1681755179337,519,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4717,2354,2,2,null,519,11493,248
+1681755191351,152,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1367,1178,2,2,https://catfact.ninja/fact?max_length=56,152,0,0
+1681755191343,472,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,472,0,304
+1681755185337,568,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4672,2354,2,2,null,568,11449,259
+1681755197345,131,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1413,1179,2,2,https://catfact.ninja/fact?max_length=100,131,0,0
+1681755197349,397,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,397,0,257
+1681755191336,603,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4718,2355,2,2,null,603,11404,304
+1681755203348,133,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1390,1178,2,2,https://catfact.ninja/fact?max_length=84,133,0,0
+1681755203351,392,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,392,0,251
+1681755197337,530,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4695,2354,2,2,null,530,11483,257
+1681755209352,143,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1387,1178,2,2,https://catfact.ninja/fact?max_length=64,143,0,0
+1681755209344,404,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,2,2,https://catfact.ninja/breeds?limit=100,403,0,261
+1681755203337,535,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4692,2354,2,2,null,535,11482,251
+1681755215343,151,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1389,1178,3,3,https://catfact.ninja/fact?max_length=67,151,0,0
+1681755215342,486,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,452,3,3,https://catfact.ninja/breeds?limit=100,485,0,292
+1681755215349,480,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,3,3,https://catfact.ninja/breeds?limit=100,480,0,285
+1681755209337,555,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4694,2354,3,3,null,554,11453,261
+1681755221341,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1393,1178,4,4,https://catfact.ninja/fact?max_length=85,135,0,0
+1681755221348,129,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1414,1178,4,4,https://catfact.ninja/fact?max_length=92,129,0,0
+1681755221352,420,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,420,0,249
+1681755221342,435,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,452,4,4,https://catfact.ninja/breeds?limit=100,435,0,258
+1681755215341,621,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4698,1630,4,4,null,620,11381,292
+1681755212338,609,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4719,2354,4,4,null,609,14405,285
+1681755227339,132,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=63,132,0,0
+1681755227351,127,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1398,1178,4,4,https://catfact.ninja/fact?max_length=91,127,0,0
+1681755227344,398,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,398,0,253
+1681755227341,417,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,452,4,4,https://catfact.ninja/breeds?limit=100,417,0,258
+1681755221338,567,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4696,1630,4,4,null,567,11434,258
+1681755218337,547,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4703,2354,4,4,null,547,14467,249
+1681755233340,138,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1381,1178,4,4,https://catfact.ninja/fact?max_length=83,138,0,0
+1681755233343,181,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1410,1178,4,4,https://catfact.ninja/fact?max_length=95,181,0,0
+1681755233340,419,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,418,0,260
+1681755233347,420,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,420,0,254
+1681755227340,555,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4686,1630,4,4,null,555,11451,258
+1681755224337,579,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4715,2354,4,4,null,579,14431,253
+1681755239341,140,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1408,1178,4,4,https://catfact.ninja/fact?max_length=90,140,0,0
+1681755239348,142,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1366,1178,4,4,https://catfact.ninja/fact?max_length=52,142,0,0
+1681755239354,409,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,409,0,272
+1681755239339,848,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,848,0,287
+1681755230337,559,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4713,2354,4,4,null,558,14445,260
+1681755233337,562,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4671,2354,4,4,null,562,11449,254
+1681755245338,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1396,1178,4,4,https://catfact.ninja/fact?max_length=71,135,0,0
+1681755245351,136,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1398,1178,4,4,https://catfact.ninja/fact?max_length=97,136,0,0
+1681755245344,416,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,416,0,249
+1681755245341,423,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,423,0,252
+1681755239338,983,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4701,2354,4,4,null,983,11018,287
+1681755236337,545,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4703,2354,4,4,null,545,14470,272
+1681755251341,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1387,1178,4,4,https://catfact.ninja/fact?max_length=88,135,0,0
+1681755251343,135,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1395,1178,4,4,https://catfact.ninja/fact?max_length=98,135,0,0
+1681755251340,407,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,407,0,246
+1681755251347,400,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,400,0,243
+1681755242337,558,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4692,2354,4,4,null,558,14447,252
+1681755245337,551,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4700,2354,4,4,null,551,11458,249
+1681755257341,128,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=89,128,0,0
+1681755257348,129,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1398,1178,4,4,https://catfact.ninja/fact?max_length=77,129,0,0
+1681755257338,393,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,393,0,249
+1681755257351,391,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,391,0,251
+1681755248338,535,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4696,2354,4,4,null,535,14469,246
+1681755251337,529,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4703,2354,4,4,null,529,11491,243
+1681755263338,131,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1395,1178,4,4,https://catfact.ninja/fact?max_length=64,131,0,0
+1681755263351,137,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1398,1178,4,4,https://catfact.ninja/fact?max_length=66,137,0,0
+1681755263344,400,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,400,0,240
+1681755263340,421,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,421,0,252
+1681755257337,524,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4700,2354,4,4,null,524,11478,249
+1681755254337,528,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4703,2354,4,4,null,528,14490,251
+1681755269344,132,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1378,1178,4,4,https://catfact.ninja/fact?max_length=56,132,0,0
+1681755269341,137,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1389,1178,4,4,https://catfact.ninja/fact?max_length=74,137,0,0
+1681755269341,409,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,408,0,247
+1681755269349,407,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,407,0,248
+1681755260336,558,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4694,2354,4,4,null,558,14451,252
+1681755263337,532,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4683,2354,4,4,null,532,11480,240
+1681755275341,138,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1389,1178,4,4,https://catfact.ninja/fact?max_length=73,137,0,0
+1681755275349,148,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1381,1178,4,4,https://catfact.ninja/fact?max_length=97,148,0,0
+1681755275350,425,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,425,0,269
+1681755275363,420,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,420,0,259
+1681755266338,547,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4694,2354,4,4,null,545,14463,247
+1681755269337,555,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4686,2354,4,4,null,555,11469,248
+1681755281359,175,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=61,175,0,0
+1681755281359,176,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1385,1178,4,4,https://catfact.ninja/fact?max_length=70,176,0,0
+1681755281348,478,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,478,0,300
+1681755281349,481,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,481,0,306
+1681755275348,601,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4690,2354,4,4,null,601,11409,269
+1681755272338,595,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4696,2354,4,4,null,595,14425,259
+1681755287354,149,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1406,1178,4,4,https://catfact.ninja/fact?max_length=95,148,0,0
+1681755287354,160,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1372,1178,4,4,https://catfact.ninja/fact?max_length=63,160,0,0
+1681755287355,428,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,428,0,261
+1681755287355,432,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,432,0,267
+1681755278347,641,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4677,2354,4,4,null,641,14356,306
+1681755281346,627,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4711,2354,4,4,null,626,11386,300
+1681755293356,143,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1393,1178,4,4,https://catfact.ninja/fact?max_length=69,143,0,0
+1681755293357,418,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,418,0,255
+1681755293342,496,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1387,1178,4,4,https://catfact.ninja/fact?max_length=54,496,0,0
+1681755293357,504,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,504,0,257
+1681755284343,928,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4692,2354,4,4,null,928,14089,267
+1681755287339,571,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4698,2354,4,4,null,571,11450,261
+1681755299357,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1413,1178,4,4,https://catfact.ninja/fact?max_length=95,146,0,0
+1681755299357,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1390,1178,4,4,https://catfact.ninja/fact?max_length=61,147,0,0
+1681755299341,400,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,400,0,251
+1681755299357,397,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,397,0,249
+1681755290349,565,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4695,2354,4,4,null,565,14446,255
+1681755293342,650,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4718,2354,4,4,null,650,11368,257
+1681755305346,166,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1381,1178,4,4,https://catfact.ninja/fact?max_length=60,166,0,0
+1681755305359,173,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1367,1179,4,4,https://catfact.ninja/fact?max_length=100,173,0,0
+1681755305346,485,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,485,0,297
+1681755305359,482,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,482,0,291
+1681755296348,566,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4686,2354,4,4,null,566,14430,251
+1681755299340,570,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4672,2355,4,4,null,570,11451,249
+1681755311360,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1410,1178,4,4,https://catfact.ninja/fact?max_length=98,147,0,0
+1681755311343,167,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1381,1178,4,4,https://catfact.ninja/fact?max_length=61,167,0,0
+1681755311360,428,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,427,0,266
+1681755311360,816,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,816,0,266
+1681755305345,629,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4715,2354,4,4,null,629,11377,291
+1681755302349,652,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4686,2354,4,4,null,652,14350,297
+1681755317350,143,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1370,1178,4,4,https://catfact.ninja/fact?max_length=53,143,0,0
+1681755317366,144,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1417,1178,4,4,https://catfact.ninja/fact?max_length=90,144,0,0
+1681755317350,421,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,421,0,251
+1681755317350,423,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,422,0,252
+1681755308348,960,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4722,2354,4,4,null,960,14045,266
+1681755311343,571,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4675,2354,4,4,null,570,11439,266
+1681755323352,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1390,1178,4,4,https://catfact.ninja/fact?max_length=59,146,0,0
+1681755323352,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1389,1178,4,4,https://catfact.ninja/fact?max_length=66,146,0,0
+1681755323352,416,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,416,0,254
+1681755323352,420,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,420,0,254
+1681755314339,569,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4695,2354,4,4,null,568,14442,252
+1681755317350,567,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4694,2354,4,4,null,567,11448,251
+1681755329348,160,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1389,1178,4,4,https://catfact.ninja/fact?max_length=55,160,0,0
+1681755329363,163,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1388,1178,4,4,https://catfact.ninja/fact?max_length=55,163,0,0
+1681755329348,465,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,465,0,303
+1681755329363,535,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,535,0,366
+1681755320349,576,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4694,2354,4,4,null,576,14427,254
+1681755323352,583,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4693,2354,4,4,null,583,11432,254
+1681755335348,151,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1383,1178,4,4,https://catfact.ninja/fact?max_length=62,151,0,0
+1681755335363,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1389,1178,4,4,https://catfact.ninja/fact?max_length=76,145,0,0
+1681755335349,433,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,433,0,278
+1681755335364,429,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,429,0,264
+1681755329347,616,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4688,2354,4,4,null,616,11400,303
+1681755326338,681,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4694,2354,4,4,null,680,14345,366
+1681755341346,150,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1382,1178,4,4,https://catfact.ninja/fact?max_length=56,150,0,0
+1681755341362,145,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=76,145,0,0
+1681755341347,385,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,385,0,246
+1681755341363,404,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,404,0,262
+1681755332343,583,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4687,2354,4,4,null,583,14420,278
+1681755335348,574,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4696,2354,4,4,null,574,11440,264
+1681755347345,142,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1374,1178,4,4,https://catfact.ninja/fact?max_length=67,142,0,0
+1681755347361,144,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1367,1178,4,4,https://catfact.ninja/fact?max_length=91,144,0,0
+1681755347361,414,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,414,0,256
+1681755347361,870,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,870,0,257
+1681755338339,527,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4679,2354,4,4,null,527,14477,246
+1681755341346,548,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4672,2354,4,4,null,548,11465,262
+1681755353358,154,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1379,1178,4,4,https://catfact.ninja/fact?max_length=52,154,0,0
+1681755353358,171,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1387,1178,4,4,https://catfact.ninja/fact?max_length=61,171,0,0
+1681755353343,420,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,420,0,270
+1681755353359,453,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,452,0,288
+1681755347345,1041,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4692,2354,4,4,null,1041,10968,257
+1681755344349,568,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4684,2354,4,4,null,568,14437,256
+1681755359354,161,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1388,1178,4,4,https://catfact.ninja/fact?max_length=91,161,0,0
+1681755359354,232,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1394,1178,4,4,https://catfact.ninja/fact?max_length=78,232,0,0
+1681755359354,402,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,402,0,270
+1681755359354,417,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,417,0,267
+1681755350340,652,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4699,2354,4,4,null,652,14355,270
+1681755353343,614,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4693,2354,4,4,null,613,11406,288
+1681755365345,152,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1409,1178,4,4,https://catfact.ninja/fact?max_length=88,152,0,0
+1681755365361,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1390,1178,4,4,https://catfact.ninja/fact?max_length=98,146,0,0
+1681755365361,400,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,400,0,250
+1681755365361,424,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,424,0,254
+1681755356350,554,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4714,2354,4,4,null,554,14442,270
+1681755359338,563,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4695,2354,4,4,null,563,11460,267
+1681755371358,148,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1419,1178,4,4,https://catfact.ninja/fact?max_length=94,148,0,0
+1681755371359,153,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1389,1178,4,4,https://catfact.ninja/fact?max_length=57,153,0,0
+1681755371344,417,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,417,0,264
+1681755371359,403,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,403,0,256
+1681755365345,572,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4724,2354,4,4,null,572,11433,254
+1681755362351,553,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4694,2354,4,4,null,553,14462,250
+1681755377349,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1400,1178,4,4,https://catfact.ninja/fact?max_length=73,146,0,0
+1681755377364,142,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1402,1178,4,4,https://catfact.ninja/fact?max_length=92,141,0,0
+1681755377364,408,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,408,0,265
+1681755377349,427,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,426,0,276
+1681755368342,563,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4705,2354,4,4,null,563,14445,264
+1681755371343,545,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4707,2354,4,4,null,544,11478,256
+1681755383350,143,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=84,142,0,0
+1681755383365,143,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1381,1178,4,4,https://catfact.ninja/fact?max_length=70,143,0,0
+1681755383350,400,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,399,0,265
+1681755383366,392,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,391,0,255
+1681755374348,570,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4696,2354,4,4,null,568,14427,276
+1681755377349,551,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4686,2354,4,4,null,551,11461,265
+1681755389361,140,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1372,1178,4,4,https://catfact.ninja/fact?max_length=52,140,0,0
+1681755389361,148,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1390,1178,4,4,https://catfact.ninja/fact?max_length=70,148,0,0
+1681755389345,430,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,430,0,260
+1681755389361,419,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,419,0,248
+1681755383349,540,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4677,2354,4,4,null,539,11474,265
+1681755380348,540,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4695,2354,4,4,null,539,14475,255
+1681755395361,156,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1402,1178,4,4,https://catfact.ninja/fact?max_length=95,156,0,0
+1681755395346,187,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1416,1178,4,4,https://catfact.ninja/fact?max_length=88,187,0,0
+1681755395362,475,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,475,0,296
+1681755395346,998,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,998,0,291
+1681755386350,617,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4721,2354,4,4,null,617,14390,260
+1681755389345,575,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4707,2354,4,4,null,575,11437,248
+1681755401352,145,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1398,1178,4,4,https://catfact.ninja/fact?max_length=65,145,0,0
+1681755401352,155,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1379,1178,4,4,https://catfact.ninja/fact?max_length=75,155,0,0
+1681755401354,438,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,438,0,286
+1681755401353,470,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,470,0,289
+1681755391350,1143,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4703,2354,4,4,null,1143,14863,291
+1681755394342,630,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4684,2354,4,4,null,630,12384,296
+1681755407352,148,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1398,1178,4,4,https://catfact.ninja/fact?max_length=95,148,0,0
+1681755407352,159,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=75,159,0,0
+1681755407354,437,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,436,0,271
+1681755407354,443,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,442,0,276
+1681755400337,629,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4696,2354,4,4,null,629,12388,289
+1681755397352,586,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4703,2354,4,4,null,586,15431,286
+1681755413351,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1393,1178,4,4,https://catfact.ninja/fact?max_length=79,147,0,0
+1681755413366,145,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1380,1178,4,4,https://catfact.ninja/fact?max_length=90,141,0,0
+1681755413352,412,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,412,0,261
+1681755413366,407,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,407,0,253
+1681755403348,584,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4698,2354,4,4,null,583,15419,271
+1681755406341,588,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4685,2354,4,4,null,583,12439,276
+1681755419365,462,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,462,0,304
+1681755419349,512,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1383,1178,4,4,https://catfact.ninja/fact?max_length=78,511,0,0
+1681755419364,506,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1384,1178,4,4,https://catfact.ninja/fact?max_length=55,505,0,0
+1681755419365,1464,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,1464,0,1312
+1681755412343,913,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4689,2354,4,4,null,912,12101,253
+1681755409343,924,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4688,2354,4,4,null,923,15090,261
+1681755425355,142,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1381,1178,4,4,https://catfact.ninja/fact?max_length=57,142,0,0
+1681755425355,145,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1399,1178,4,4,https://catfact.ninja/fact?max_length=62,145,0,0
+1681755425356,423,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,422,0,261
+1681755425356,426,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,426,0,265
+1681755415338,1606,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4686,2354,4,4,null,1606,14408,1312
+1681755418337,607,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4704,2354,4,4,null,607,12409,304
+1681755431351,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1396,1178,4,4,https://catfact.ninja/fact?max_length=95,147,0,0
+1681755431351,157,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1408,1178,4,4,https://catfact.ninja/fact?max_length=84,157,0,0
+1681755431352,433,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,432,0,258
+1681755431352,445,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,445,0,258
+1681755421349,570,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4701,2354,4,4,null,569,15430,261
+1681755424349,583,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4713,2354,4,4,null,583,12434,265
+1681755437349,144,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=59,144,0,0
+1681755437364,149,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1412,1178,4,4,https://catfact.ninja/fact?max_length=90,149,0,0
+1681755437349,424,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,424,0,268
+1681755437365,415,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,415,0,262
+1681755427339,589,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4696,2354,4,4,null,589,15427,258
+1681755430340,582,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4717,2354,4,4,null,581,12432,258
+1681755443353,159,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1423,1179,4,4,https://catfact.ninja/fact?max_length=100,159,0,0
+1681755443353,175,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1398,1178,4,4,https://catfact.ninja/fact?max_length=73,175,0,0
+1681755443353,489,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,489,0,328
+1681755443353,507,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,507,0,326
+1681755436343,583,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4728,2355,4,4,null,583,12424,268
+1681755433344,590,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4703,2354,4,4,null,590,15431,262
+1681755449349,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1405,1178,4,4,https://catfact.ninja/fact?max_length=75,146,0,0
+1681755449364,155,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1371,1178,4,4,https://catfact.ninja/fact?max_length=72,155,0,0
+1681755449349,391,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,390,0,252
+1681755449365,400,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,400,0,257
+1681755439350,653,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4710,2354,4,4,null,653,15343,326
+1681755442342,644,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4676,2354,4,4,null,644,12375,328
+1681755455343,150,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1402,1178,4,4,https://catfact.ninja/fact?max_length=99,150,0,0
+1681755455359,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1394,1178,4,4,https://catfact.ninja/fact?max_length=73,147,0,0
+1681755455360,404,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,404,0,270
+1681755455360,428,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,428,0,264
+1681755448341,547,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4699,2354,4,4,null,547,12468,257
+1681755445342,541,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4707,2354,4,4,null,540,15474,252
+1681755461354,145,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1379,1178,4,4,https://catfact.ninja/fact?max_length=94,145,0,0
+1681755461354,145,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1381,1179,4,4,https://catfact.ninja/fact?max_length=100,145,0,0
+1681755461355,397,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,397,0,256
+1681755461355,403,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,403,0,256
+1681755454349,573,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4686,2355,4,4,null,573,12443,264
+1681755451347,549,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4684,2354,4,4,null,549,15469,270
+1681755467348,157,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1395,1178,4,4,https://catfact.ninja/fact?max_length=91,157,0,0
+1681755467364,156,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1408,1178,4,4,https://catfact.ninja/fact?max_length=83,156,0,0
+1681755467348,432,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,432,0,274
+1681755467364,417,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,417,0,272
+1681755457339,560,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4700,2354,4,4,null,560,15457,256
+1681755460344,553,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4713,2354,4,4,null,553,12459,256
+1681755473355,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1379,1178,4,4,https://catfact.ninja/fact?max_length=54,147,0,0
+1681755473354,155,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1387,1178,4,4,https://catfact.ninja/fact?max_length=56,155,0,0
+1681755473355,416,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,416,0,252
+1681755473355,431,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,431,0,259
+1681755466340,564,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4684,2354,4,4,null,564,12454,272
+1681755463347,587,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4692,2354,4,4,null,587,15424,274
+1681755479356,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1387,1178,4,4,https://catfact.ninja/fact?max_length=51,147,0,0
+1681755479356,151,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1396,1178,4,4,https://catfact.ninja/fact?max_length=80,150,0,0
+1681755479357,410,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,409,0,271
+1681755479357,420,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,420,0,272
+1681755472346,567,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4701,2354,4,4,null,566,12448,252
+1681755469350,578,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4692,2354,4,4,null,578,15433,259
+1681755485344,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1398,1178,4,4,https://catfact.ninja/fact?max_length=90,146,0,0
+1681755485360,144,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1390,1178,4,4,https://catfact.ninja/fact?max_length=54,143,0,0
+1681755485344,442,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,441,0,268
+1681755485360,436,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,436,0,260
+1681755475345,556,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4703,2354,4,4,null,555,15449,271
+1681755478346,564,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4695,2354,4,4,null,563,12454,272
+1681755491345,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1403,1178,4,4,https://catfact.ninja/fact?max_length=99,147,0,0
+1681755491361,145,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1387,1178,4,4,https://catfact.ninja/fact?max_length=60,145,0,0
+1681755491362,434,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,434,0,264
+1681755491362,434,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,434,0,262
+1681755481338,589,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4708,2354,4,4,null,588,15423,268
+1681755484338,581,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4692,2354,4,4,null,581,12446,260
+1681755497363,143,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1393,1178,4,4,https://catfact.ninja/fact?max_length=82,143,0,0
+1681755497363,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1399,1178,4,4,https://catfact.ninja/fact?max_length=60,147,0,0
+1681755497348,384,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,383,0,244
+1681755497364,411,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,411,0,258
+1681755487342,581,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4704,2354,4,4,null,581,15430,264
+1681755490337,577,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4698,2354,4,4,null,577,12438,262
+1681755503352,151,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1389,1178,4,4,https://catfact.ninja/fact?max_length=54,151,0,0
+1681755503352,153,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1383,1178,4,4,https://catfact.ninja/fact?max_length=85,153,0,0
+1681755503352,396,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,396,0,253
+1681755503352,427,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,426,0,252
+1681755493345,535,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4694,2354,4,4,null,534,15461,244
+1681755496352,564,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4688,2354,4,4,null,564,12441,258
+1681755509340,152,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1411,1178,4,4,https://catfact.ninja/fact?max_length=88,152,0,0
+1681755509355,151,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1390,1178,4,4,https://catfact.ninja/fact?max_length=51,151,0,0
+1681755509355,393,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,393,0,260
+1681755509355,398,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,398,0,259
+1681755499346,548,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4716,2354,4,4,null,548,15456,253
+1681755502344,578,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4695,2354,4,4,null,577,12443,252
+1681755515350,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1411,1178,4,4,https://catfact.ninja/fact?max_length=85,147,0,0
+1681755515365,153,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1386,1178,4,4,https://catfact.ninja/fact?max_length=85,153,0,0
+1681755515350,390,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,390,0,254
+1681755515366,398,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,398,0,256
+1681755508347,545,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4716,2354,4,4,null,545,12469,259
+1681755505346,546,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4691,2354,4,4,null,546,15469,260
+1681755521344,143,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=91,143,0,0
+1681755521360,148,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1393,1178,4,4,https://catfact.ninja/fact?max_length=68,148,0,0
+1681755521344,394,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,394,0,257
+1681755521360,406,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,406,0,256
+1681755511340,533,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4696,2354,4,4,null,533,15473,254
+1681755514343,546,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4698,2354,4,4,null,546,12474,256
+1681755527344,162,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1372,1178,4,4,https://catfact.ninja/fact?max_length=72,162,0,0
+1681755527360,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1396,1178,4,4,https://catfact.ninja/fact?max_length=70,146,0,0
+1681755527361,452,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,452,0,288
+1681755527361,452,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,452,0,285
+1681755517351,556,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4677,2354,4,4,null,556,15441,257
+1681755520348,552,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4701,2354,4,4,null,552,12463,256
+1681755533361,164,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1393,1178,4,4,https://catfact.ninja/fact?max_length=93,164,0,0
+1681755533361,182,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1379,1178,4,4,https://catfact.ninja/fact?max_length=72,182,0,0
+1681755533347,448,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,448,0,279
+1681755533362,461,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,461,0,313
+1681755526350,634,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4684,2354,4,4,null,634,12378,288
+1681755523343,616,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4698,2354,4,4,null,616,15403,285
+1681755539345,148,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1391,1178,4,4,https://catfact.ninja/fact?max_length=98,148,0,0
+1681755539361,155,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1415,1178,4,4,https://catfact.ninja/fact?max_length=97,155,0,0
+1681755539361,404,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,404,0,251
+1681755539345,433,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,432,0,265
+1681755529343,596,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4696,2354,4,4,null,596,15405,279
+1681755532337,616,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4720,2354,4,4,null,616,12406,313
+1681755545344,149,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1414,1178,4,4,https://catfact.ninja/fact?max_length=97,149,0,0
+1681755545359,150,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1390,1179,4,4,https://catfact.ninja/fact?max_length=100,150,0,0
+1681755545359,420,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,420,0,254
+1681755545359,422,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,422,0,257
+1681755535349,582,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4719,2354,4,4,null,581,15418,265
+1681755538351,554,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4695,2355,4,4,null,554,12459,251
+1681755551363,146,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1401,1178,4,4,https://catfact.ninja/fact?max_length=88,146,0,0
+1681755551363,147,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1385,1178,4,4,https://catfact.ninja/fact?max_length=86,147,0,0
+1681755551364,426,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,426,0,252
+1681755551349,441,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,441,0,269
+1681755544350,566,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-5,,true,,4706,2354,4,4,null,566,12437,254
+1681755541346,569,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-3,,true,,4690,2354,4,4,null,569,15439,257
+1681755557352,161,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1378,1178,4,4,https://catfact.ninja/fact?max_length=54,161,0,0
+1681755557352,201,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1380,1178,4,4,https://catfact.ninja/fact?max_length=77,201,0,0
+1681755557352,469,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,469,0,297
+1681755557352,519,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,519,0,304
+1681755547344,642,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-6,,true,,4685,2354,4,4,null,642,15361,269
+1681755550342,587,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-1,,true,,4683,2354,4,4,null,587,12434,252
+1681755563362,155,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-2,text,true,,1360,1178,4,4,https://catfact.ninja/fact?max_length=56,155,0,0
+1681755563363,440,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,440,0,266
+1681755563347,585,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-4,text,true,,1382,1178,4,4,https://catfact.ninja/fact?max_length=54,585,0,0
+1681755563363,577,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,577,0,257
+1681755556341,674,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-2,,true,,4665,2354,4,4,null,674,12344,304
+1681755553348,1054,UC_01_CatFact,200,"Number of samples in transaction : 3, number of failing samples : 0",bzm - Arrivals Thread Group-ThreadStarter 1-4,,true,,4687,2354,4,4,null,1054,14957,297
+1681755569356,149,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-5,text,true,,1383,1178,4,4,https://catfact.ninja/fact?max_length=53,149,0,0
+1681755569356,149,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-3,text,true,,1372,1178,4,4,https://catfact.ninja/fact?max_length=69,149,0,0
+1681755569357,397,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,397,0,257
+1681755569357,413,UC_01_01_CatFact_Breeds_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,3305,1176,4,4,https://catfact.ninja/breeds?limit=100,413,0,262
+1681755575344,145,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-6,text,true,,1410,1178,2,2,https://catfact.ninja/fact?max_length=94,145,0,0
+1681755575360,445,UC_01_02_CatFact_Fact_Get,200,OK,bzm - Arrivals Thread Group-ThreadStarter 1-1,text,true,,1393,1178,1,1,https://catfact.ninja/fact?max_length=99,445,0,0

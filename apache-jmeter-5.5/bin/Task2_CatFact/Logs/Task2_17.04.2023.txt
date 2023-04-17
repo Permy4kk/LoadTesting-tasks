@@ -1,0 +1,149 @@
+17/04/2023 21:10:41;Burmilla;United Kingdom;A tiger's stripes are like fingerprints
+17/04/2023 21:10:47;Turkish Van;developed in the United Kingdom (founding stock from Turkey);The cat's tail is used to maintain balance.
+17/04/2023 21:10:53;Sphynx;Canada;The cat has 500 skeletal muscles (humans have 650).
+17/04/2023 21:10:59;Turkish Angora;Turkey;Cats can be right-pawed or left-pawed.
+17/04/2023 21:11:05;Exotic Shorthair;United States;The first true cats came into existence about 12 million years ago and were the Proailurus.
+17/04/2023 21:11:11;Bengal;developed in the United States (founding stock from Asia);There are approximately 100 breeds of cat.
+17/04/2023 21:11:17;Lykoi;United States;A cats field of vision is about 185 degrees.
+17/04/2023 21:11:23;American Shorthair;United States;Cats are now Britain's favourite pet: there are 7.7 million cats as opposed to 6.6 million dogs.
+17/04/2023 21:11:29;Ukrainian Levkoy;Ukraine;In the 1750s, Europeans introduced cats into the Americas to control pests.
+17/04/2023 21:11:35;Siamese;Thailand;It is estimated that cats can make over 60 different sounds.
+17/04/2023 21:11:41;No_breed;No_country;A cat can jump up to five times its own height in a single bound.
+17/04/2023 21:11:47;Russian Blue;Russia;In 1987 cats overtook dogs as the number one pet in America.
+17/04/2023 21:11:53;Selkirk Rex;United States;A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.
+17/04/2023 21:11:59;PerFold?(Experimental Breed - WCF);Europe;Cats can jump up to 7 times their tail length.
+17/04/2023 21:12:05;German Rex;East Germany;A group of cats is called a clowder.
+17/04/2023 21:12:11;Cornish Rex;United Kingdom (England);An adult lion's roar can be heard up to five miles (eight kilometers) away.
+17/04/2023 21:12:17;Bengal;developed in the United States (founding stock from Asia);Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
+17/04/2023 21:12:23;Colorpoint Shorthair;;A domestic cat can run at speeds of 30 mph.
+17/04/2023 21:12:29;Sphynx;Canada;The first cat show was in 1871 at the Crystal Palace in London.
+17/04/2023 21:12:35;Suphalak;Thailand;The average litter of kittens is between 2 - 6 kittens.
+17/04/2023 21:12:41;Oriental Shorthair;;Cats often overract to unexpected stimuli because of their extremely sensitive nervous system.
+17/04/2023 21:12:47;Russian Blue;Russia;An adult lion's roar can be heard up to five miles (eight kilometers) away.
+17/04/2023 21:12:53;Maine Coon;United States;An adult lion's roar can be heard up to five miles (eight kilometers) away.
+17/04/2023 21:12:59;Lykoi;United States;Cats have the largest eyes of any mammal.
+17/04/2023 21:13:05;Toyger;United States;The Pilgrims were the first to introduce cats to North America.
+17/04/2023 21:13:11;Snowshoe;United States;Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.
+17/04/2023 21:13:17;Cornish Rex;United Kingdom (England);Female cats are polyestrous
+17/04/2023 21:13:23;Sam Sawet;Thailand;A female cat can be referred to as a molly or a queen, and a male cat is often labeled as a tom.
+17/04/2023 21:13:29;British Longhair;United Kingdom;Cats have been domesticated for half as long as dogs have been.
+17/04/2023 21:13:35;Mekong Bobtail;Russia;Blue-eyed, white cats are often prone to deafness.
+17/04/2023 21:13:41;California Spangled;United States;Tigers are excellent swimmers and do not avoid water.
+17/04/2023 21:13:47;Arabian Mau;Arabian Peninsula;Cats see six times better in the dark and at night than humans.
+17/04/2023 21:13:47;No_breed;No_country;After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.
+17/04/2023 21:13:53;Sam Sawet;Thailand;Kittens remain with their mother till the age of 9 weeks.
+17/04/2023 21:13:53;Tonkinese;Canada;Cats step with both left legs, then both right legs when they walk or run.
+17/04/2023 21:13:59;Toyger;United States;Approximately 24 cat skins can make a coat.
+17/04/2023 21:13:59;Sphynx;Canada;Approximately 1/3 of cat owners think their pets are able to read their minds.
+17/04/2023 21:14:05;Ragamuffin;United States;The average cat can jump 8 feet in a single bound, nearly six times its body length!
+17/04/2023 21:14:05;Toyger;United States;Cats dislike citrus scent.
+17/04/2023 21:14:11;Raas;Indonesia;Today there are about 100 distinct breeds of the domestic cat.
+17/04/2023 21:14:11;Exotic Shorthair;United States;The Pilgrims were the first to introduce cats to North America.
+17/04/2023 21:14:17;Japanese Bobtail;Japan;A cat's nose is as unique as a human's fingerprint.
+17/04/2023 21:14:17;Maine Coon;United States;Cats only sweat through their paws and nowhere else on their body
+17/04/2023 21:14:23;Himalayan, or Colorpoint Persian;United States/United Kingdom;Cats control the outer ear using 32 muscles; humans use 6
+17/04/2023 21:14:23;Abyssinian;Ethiopia;The Pilgrims were the first to introduce cats to North America.
+17/04/2023 21:14:29;Russian White, Black and Tabby;Australia;In 1987 cats overtook dogs as the number one pet in America.
+17/04/2023 21:14:29;Somali;Somalia;The Maine Coone is the only native American long haired breed.
+17/04/2023 21:14:35;Turkish Angora;Turkey;The leopard is the most widespread of all big cats.
+17/04/2023 21:14:35;Himalayan, or Colorpoint Persian;United States/United Kingdom;A tiger's stripes are like fingerprints
+17/04/2023 21:14:41;Oriental Longhair;;The leopard is the most widespread of all big cats.
+17/04/2023 21:14:41;Sphynx;Canada;Cats can jump up to 7 times their tail length.
+17/04/2023 21:14:47;Korn Ja;Thailand;Jaguars are the only big cats that don't roar.
+17/04/2023 21:14:47;Sokoke;Kenya;Cats' hearing is much more sensitive than humans and dogs.
+17/04/2023 21:14:53;Munchkin;United States;Female felines are \superfecund
+17/04/2023 21:14:53;Cheetoh;United States;If they have ample water, cats can tolerate temperatures up to 133 °F.
+17/04/2023 21:14:59;Munchkin;United States;Blue-eyed, white cats are often prone to deafness.
+17/04/2023 21:14:59;No_breed;No_country;A cat has two vocal chords, and can make over 100 sounds.
+17/04/2023 21:15:05;British Shorthair;United Kingdom;A 2007 Gallup poll revealed that both men and women were equally likely to own a cat.
+17/04/2023 21:15:05;Thai;Thailand;The cat has 500 skeletal muscles (humans have 650).
+17/04/2023 21:15:11;Exotic Shorthair;United States;Cats can jump up to 7 times their tail length.
+17/04/2023 21:15:11;Japanese Bobtail;Japan;Female cats are polyestrous
+17/04/2023 21:15:17;Cyprus;Cyprus;Cats lived with soldiers in trenches, where they killed mice during World War I.
+17/04/2023 21:15:17;Thai Lilac;Thailand;Approximately 24 cat skins can make a coat.
+17/04/2023 21:15:23;Turkish Van;developed in the United Kingdom (founding stock from Turkey);A form of AIDS exists in cats.
+17/04/2023 21:15:23;Karelian Bobtail;Western Russia;The name "jaguar" comes from a Native American word meaning "he who kills with one leap".
+17/04/2023 21:15:29;Bambino;United States;Normal body temperature for a cat is 102 degrees F.
+17/04/2023 21:15:29;California Spangled;United States;A cat can sprint at about thirty-one miles per hour.
+17/04/2023 21:15:35;Arabian Mau;Arabian Peninsula;A cat will tremble or shiver when it is extreme pain.
+17/04/2023 21:15:35;Munchkin;United States;Like humans, cats tend to favor one paw over another
+17/04/2023 21:15:41;Highlander;United States;Tigers are excellent swimmers and do not avoid water.
+17/04/2023 21:15:41;Munchkin;United States;Cats take between 20-40 breaths per minute.
+17/04/2023 21:15:47;Japanese Bobtail;Japan;The cat's tail is used to maintain balance.
+17/04/2023 21:15:47;British Semi-longhair;United Kingdom;Cats bury their feces to cover their trails from predators.
+17/04/2023 21:15:53;Maine Coon;United States;A group of cats is called a clowder.
+17/04/2023 21:15:53;Highlander;United States;Female cats are polyestrous
+17/04/2023 21:15:59;York Chocolate;United States (New York);On average, a cat will sleep for 16 hours a day.
+17/04/2023 21:15:59;Burmilla;United Kingdom;There are approximately 100 breeds of cat.
+17/04/2023 21:16:05;Singapura;Singapore;A cat's brain is more similar to a man's brain than that of a dog.
+17/04/2023 21:16:05;Selkirk Rex;United States;Tylenol and chocolate are both poisionous to cats.
+17/04/2023 21:16:11;Tonkinese;Canada;The first official cat show in the UK was organised at Crystal Palace in 1871.
+17/04/2023 21:16:11;Sokoke;Kenya;A cat lover is called an Ailurophilia (Greek: cat+lover).
+17/04/2023 21:16:17;Karelian Bobtail;Western Russia;Many Egyptians worshipped the goddess Bast, who had a woman’s body and a cat’s head.
+17/04/2023 21:16:17;Bengal;developed in the United States (founding stock from Asia);Many cats love having their forehead gently stroked.
+17/04/2023 21:16:23;American Curl;United States;The Ancient Egyptian word for cat was mau, which means "to see".
+17/04/2023 21:16:23;Highlander;United States;When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.
+17/04/2023 21:16:29;Korn Ja;Thailand;Cats bury their feces to cover their trails from predators.
+17/04/2023 21:16:29;Ragdoll;United States;Approximately 24 cat skins can make a coat.
+17/04/2023 21:16:35;Ojos Azules;United States;Cats can be right-pawed or left-pawed.
+17/04/2023 21:16:35;Ukrainian Levkoy;Ukraine;A cat lover is called an Ailurophilia (Greek: cat+lover).
+17/04/2023 21:16:41;No_breed;No_country;A cat can travel at a top speed of approximately 31 mph (49 km) over a short distance.
+17/04/2023 21:16:41;Cymric or Manx Longhair;United Kingdom (Isle of Man);When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.
+17/04/2023 21:16:47;Exotic Shorthair;United States;A female cat is called a queen or a molly.
+17/04/2023 21:16:47;Somali;Somalia;The first cat show was in 1871 at the Crystal Palace in London.
+17/04/2023 21:16:53;Japanese Bobtail;Japan;Kittens remain with their mother till the age of 9 weeks.
+17/04/2023 21:16:53;Siamese;Thailand;Unlike other cats, lions have a tuft of hair at the end of their tails.
+17/04/2023 21:16:59;Selkirk Rex;United States;Cat bites are more likely to become infected than dog bites.
+17/04/2023 21:16:59;Peterbald;Russia;A domestic cat can run at speeds of 30 mph.
+17/04/2023 21:17:05;Ragamuffin;United States;A cats field of vision is about 185 degrees.
+17/04/2023 21:17:05;Thai Lilac;Thailand;Cats take between 20-40 breaths per minute.
+17/04/2023 21:17:11;American Shorthair;United States;A cat can jump 5 times as high as it is tall.
+17/04/2023 21:17:11;Balinese;developed in the United States (founding stock from Thailand);The technical term for a cat’s hairball is a “bezoar.”
+17/04/2023 21:17:17;Tonkinese;Canada;There are up to 60 million feral cats in the United States alone.
+17/04/2023 21:17:17;Thai;Thailand;The average cat can jump 8 feet in a single bound, nearly six times its body length!
+17/04/2023 21:17:23;Devon Rex;United Kingdom (England);Every year, nearly four million cats are eaten in Asia.
+17/04/2023 21:17:23;Nebelung;United States;Cats purr at the same frequency as an idling diesel engine, about 26 cycles per second.
+17/04/2023 21:17:29;Oriental Bicolor;;There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.
+17/04/2023 21:17:29;Serengeti;United States;The Pilgrims were the first to introduce cats to North America.
+17/04/2023 21:17:35;Cymric or Manx Longhair;United Kingdom (Isle of Man);In multi-cat households, cats of the opposite sex usually get along better.
+17/04/2023 21:17:35;British Semi-longhair;United Kingdom;Milk can give some cats diarrhea.
+17/04/2023 21:17:41;No_breed;No_country;A cat's brain is more similar to a man's brain than that of a dog.
+17/04/2023 21:17:41;Balinese;developed in the United States (founding stock from Thailand);In relation to their body size, cats have the largest eyes of any mammal.
+17/04/2023 21:17:47;Burmese;Burma and Thailand;Cats have the largest eyes of any mammal.
+17/04/2023 21:17:47;Asian Semi-longhair;United Kingdom;A female cat is called a queen or a molly.
+17/04/2023 21:17:53;Oregon Rex;United States;A cat can jump up to five times its own height in a single bound.
+17/04/2023 21:17:53;Scottish Fold;United Kingdom (Scotland);The average cat can jump 8 feet in a single bound, nearly six times its body length!
+17/04/2023 21:17:59;Ukrainian Levkoy;Ukraine;A cat cannot see directly under its nose.
+17/04/2023 21:17:59;Cornish Rex;United Kingdom (England);On average, a cat will sleep for 16 hours a day.
+17/04/2023 21:18:05;Himalayan, or Colorpoint Persian;United States/United Kingdom;There are up to 60 million feral cats in the United States alone.
+17/04/2023 21:18:05;Serrade petit;France;A cat's nose is as unique as a human's fingerprint.
+17/04/2023 21:18:11;British Shorthair;United Kingdom;Cheetahs do not roar, as the other big cats do. Instead, they purr.
+17/04/2023 21:18:11;Singapura;Singapore;The cat has 500 skeletal muscles (humans have 650).
+17/04/2023 21:18:17;Maine Coon;United States;A steady diet of dog food may cause blindness in your cat - it lacks taurine.
+17/04/2023 21:18:17;Havana Brown;United Kingdom;A cat's nose is as unique as a human's fingerprint.
+17/04/2023 21:18:23;Cornish Rex;United Kingdom (England);It is estimated that cats can make over 60 different sounds.
+17/04/2023 21:18:23;Korn Ja;Thailand;The technical term for a cat’s hairball is a “bezoar.”
+17/04/2023 21:18:29;Serengeti;United States;A cat will tremble or shiver when it is extreme pain.
+17/04/2023 21:18:29;Javanese;United States;A group of cats is called a “clowder.”
+17/04/2023 21:18:35;European Shorthair;Finland and Sweden;The Maine Coon is 4 to 5 times larger than the Singapura, the smallest breed of cat.
+17/04/2023 21:18:35;German Rex;East Germany;Normal body temperature for a cat is 102 degrees F.
+17/04/2023 21:18:41;Highlander;United States;Cats have 300 million neurons; dogs have about 160 million
+17/04/2023 21:18:41;Persian (Traditional Persian Cat);Greater Iran;The ancestor of all domestic cats is the African Wild Cat which still exists today.
+17/04/2023 21:18:47;Foldex[4];Canada;Kittens remain with their mother till the age of 9 weeks.
+17/04/2023 21:18:47;Japanese Bobtail;Japan;A cat has two vocal chords, and can make over 100 sounds.
+17/04/2023 21:18:53;Bengal;developed in the United States (founding stock from Asia);Cats can be right-pawed or left-pawed.
+17/04/2023 21:18:53;Serrade petit;France;Florence Nightingale owned more than 60 cats in her lifetime.
+17/04/2023 21:18:59;Toyger;United States;Neutering a cat extends its life span by two or three years.
+17/04/2023 21:18:59;British Semi-longhair;United Kingdom;A cat cannot see directly under its nose.
+17/04/2023 21:19:05;Russian White, Black and Tabby;Australia;Ailurophile is the word cat lovers are officially called.
+17/04/2023 21:19:05;No_breed;No_country;The first true cats came into existence about 12 million years ago and were the Proailurus.
+17/04/2023 21:19:11;Singapura;Singapore;A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.
+17/04/2023 21:19:11;Sam Sawet;Thailand;A cat will tremble or shiver when it is in extreme pain.
+17/04/2023 21:19:17;Oriental Bicolor;;Ginger tabby cats can have freckles around their mouths and on their eyelids!
+17/04/2023 21:19:17;Suphalak;Thailand;A cat's field of vision is about 200 degrees.
+17/04/2023 21:19:23;Serrade petit;France;A domestic cat can run at speeds of 30 mph.
+17/04/2023 21:19:23;Thai Lilac;Thailand;A tiger's stripes are like fingerprints
+17/04/2023 21:19:29;Cymric or Manx Longhair;United Kingdom (Isle of Man);Cats have 3 eyelids.
+17/04/2023 21:19:29;Serengeti;United States;The cat's tail is used to maintain balance.
+17/04/2023 21:19:35;Russian Blue;Russia;Cats can be right-pawed or left-pawed.
+17/04/2023 21:19:35;Ojos Azules;United States;A group of cats is called a “clowder.”
