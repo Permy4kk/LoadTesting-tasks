@@ -106,7 +106,7 @@ _____
 1. Произведена первоначальнавя запись с помощью HTTP(S) Test Script Recorder;<br />
 2. В TestPlan была добавлен Ultimate Thread Group, куда был помещен HTTP Sampler для получения информации по именам.В каждом запросе передаётся 3 имени;<br />
 3. Добавлен Response Assertion, что код ответа сервиса равен 200;<br />
-4. CSV Data Set Config для передачи имён в GET запрос по получению информации<br />
+4. CSV Data Set Config для передачи имён в GET запрос по получению информации;<br />
 5. Для HTTP Sampler был добавлен Regular Expression Extractor для получения получения значения поля gender у второго имени:<br />
 ![image](https://user-images.githubusercontent.com/69314117/232634616-dc0b230f-4b83-49b0-80c0-8f5c96c21e8f.png)
 
