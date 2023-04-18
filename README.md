@@ -5,7 +5,11 @@
 ## Выполнение
 
 Для каждого задания была создана папка в *apache-jmeter-5.5\bin\ .В каждой папке находится .jmx файл и папка для сохранения логов,отчётов по тестам.<br />
-Также в *apache-jmeter-5.5\bin\ есть 3 .bat файла, каждый из которых запускается non-GUI тест и по завершению генерирует отчет.<br />
+Также в *apache-jmeter-5.5\bin\ есть 3 .bat файла, каждый из которых запускается non-GUI тест и по завершению генерирует отчет в папку, в зависимости от задания:<br />
++ apache-jmeter-5.5\bin\Task1_BoredAPI\Logs\html_{datetime}<br />
++ apache-jmeter-5.5\bin\Task2_CatFact\Logs\html_{datetime}<br />
++ apache-jmeter-5.5\bin\Task3_Genderize\Logs\html_{datetime}<br />
+
 _____
 
 # Задание №1
