@@ -29,7 +29,8 @@ _____
 6. Был добавлен Constant Throughput Timer со значением Target throughput = 10.<br />
 Итоговый Test Plan:
 
-![image](https://user-images.githubusercontent.com/69314117/232704021-9fb382bc-968a-4308-b1e3-6fdb8fce4f1d.png)
+![image](https://user-images.githubusercontent.com/69314117/232704202-537d4041-3a28-4130-b54d-354831ad5d25.png)
+
 
 
 
